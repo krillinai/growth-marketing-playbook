@@ -1,7 +1,7 @@
 # The Complete Guide to GEO(Generative Engine Optimization) by KrillinAI
 
 > Written and Maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on **content intelligence** and **global growth**.  
-> © 2025 KrillinAI. All rights reserved.
+> © 2026 KrillinAI. All rights reserved.
 
 
  **[English](README.md)｜[简体中文](README.zh.md)**
