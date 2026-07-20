@@ -1,54 +1,25 @@
-# Metrics & Measurement
+# Metrics & Measurement: Cross-Company Cases
 
 > Metrics connect delivered customer value, observable behavior, and business economics. A useful system separates outcomes, drivers, guardrails, and diagnostic dimensions rather than searching for one perfect number.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
-
-- Which metric represents delivered value?
-- Which leading behavior predicts the outcome?
-- Which guardrails prevent local optimization from damaging quality or economics?
-
-## Cross-Company Patterns
-
-A horizontal capability matters only when it connects to a specific growth stage and customer value. Mature systems design process, ownership, data, feedback, and risk boundaries together.
+For metric hierarchy, formulas, guardrails, and review cadence, see [Growth Metrics System](../../../handbook/metrics/README.md).
 
 ## Company Evidence
 
 | Company | Evidence and approach |
 | --- | --- |
-| Ramp | Payback, contribution margin, acquisition versus expansion, and multiple value measures. |
-| Facebook / Meta | Retention, growth accounting, Magic Moments, and data-debt reduction. |
-| Airtable | Activation definitions, week-four collaboration, and experiment guardrails. |
-| ByteDance | Predictive LTV, multiple ROI horizons, attribution, and portfolio incrementality. |
+| [Ramp](../../companies/ramp/README.md) | Payback, contribution margin, acquisition versus expansion, and multiple value measures. |
+| [Facebook / Meta](../../companies/facebook/README.md) | Retention, growth accounting, Magic Moments, and data-debt reduction. |
+| [Airtable](../../companies/airtable/README.md) | Activation definitions, week-four collaboration, and experiment guardrails. |
+| [ByteDance](../../companies/bytedance/README.md) | Predictive LTV, multiple ROI horizons, attribution, and portfolio incrementality. |
 
-## Key Metrics
+## Comparison and Transfer
 
-- Value-based North Star
-- Cohort activation and retention
-- New, retained, resurrected, and churned users
-- Contribution margin and payback
-- Incrementality and confidence interval
+Ramp connects measurement to B2B economics; Facebook emphasizes retained social value and data quality; Airtable validates early workflow signals against collaboration; ByteDance uses predictive economics across channels and products. They differ in decision horizon, unit of analysis, and dependence on modeled outcomes.
 
-## Transferable Method
-
-1. Write the customer value event before selecting a metric.
-2. Separate outcome, input, guardrail, and diagnostic metrics.
-3. Define denominator, window, segment, owner, and decision for every metric.
-4. Audit instrumentation and reconcile model predictions with observed cohorts.
-
-## What Not to Copy Directly
-
-- Do not use revenue, DAU, or signups as universal North Stars.
-- Do not hide weak observed behavior behind a long-range forecast.
-
-## Related Companies and People
-
-- [Ramp](../../companies/ramp/README.md)
-- [Facebook / Meta](../../companies/facebook/README.md)
-- [Airtable](../../companies/airtable/README.md)
-- [ByteDance](../../companies/bytedance/README.md)
+Before transfer, define the customer-value event, observed versus predicted measures, cohort horizon, required segments, decision owner, and guardrails.
 
 ## Evidence and Limits
 

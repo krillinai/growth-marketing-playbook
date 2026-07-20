@@ -1,56 +1,26 @@
-# 实验系统
+# 实验系统：跨公司案例
 
 > 实验是降低重要不确定性的决策系统。只有当假设针对重要约束、结果可解释且学习改变后续行动时，实验数量才有意义。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## 核心问题
-
-- 哪项不确定性阻碍高价值决策？
-- 干预能否在有效埋点与足够统计功效下衡量？
-- 正向、负向或无结论结果分别触发什么行动？
-
-## 跨公司模式
-
-横向能力只有在连接具体增长环节和客户价值时才有意义。成熟做法会同时设计流程、责任、数据、反馈与风险边界。
+关于实验设计、不确定性与决策规则，参见[实验系统](../../../handbook/experimentation/README.zh.md)。
 
 ## 公司证据
 
 | 公司 | 证据与方法 |
 | --- | --- |
-| Ramp | 押注组合、结论性失败、复盘与决策质量。 |
-| Duolingo | Explore-Exploit 平衡与留存机制的重复测试。 |
-| Airtable | 连接激活与下游护栏的新用户引导实验。 |
-| Facebook / Meta | 埋点、Cohort、学习速度与跨职能实验。 |
-| Lovable | 警惕在低影响界面上追求高实验量。 |
+| [Ramp](../../companies/ramp/README.zh.md) | 押注组合、结论性失败、复盘与决策质量。 |
+| [Duolingo](../../companies/duolingo/README.zh.md) | Explore-Exploit 平衡与留存机制的重复测试。 |
+| [Airtable](../../companies/airtable/README.zh.md) | 连接激活与下游护栏的新用户引导实验。 |
+| [Facebook / Meta](../../companies/facebook/README.zh.md) | 埋点、Cohort、学习速度与跨职能实验。 |
+| [Lovable](../../companies/lovable/README.zh.md) | 警惕在低影响界面上追求高实验量。 |
 
-## 关键指标
+## 对比与迁移
 
-- 决策周期
-- 结论性结果比例
-- 效应量与置信区间
-- 护栏变化
-- 学习复用与重复测试率
+Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调整留存机制；Airtable 把引导实验连接到下游质量；Facebook 依赖埋点和跨职能执行；Lovable 警惕实验速度掩盖更大的产品约束。
 
-## 可以迁移的方法
-
-1. 先确定决策，再设计实验。
-2. 写下假设、人群、指标、阈值、护栏与下一步。
-3. 当负向结果识别出用户敏感时刻时，把它视为学习。
-4. 分析后记录产品、模型或流程改变。
-
-## 不应该直接复制的部分
-
-- 不要把实验数量当作战略。
-- 不要在回避产品、定位或模型约束时只做表面测试。
-
-## 相关公司与人物
-
-- [Ramp](../../companies/ramp/README.zh.md)
-- [Duolingo](../../companies/duolingo/README.zh.md)
-- [Airtable](../../companies/airtable/README.zh.md)
-- [Facebook / Meta](../../companies/facebook/README.zh.md)
-- [Lovable](../../companies/lovable/README.zh.md)
+应该迁移决策纪律，而不是实验数量。需要检查统计功效、埋点、产品风险、实施责任，以及测试界面是否足以实质改变结果。
 
 ## 证据与局限
 

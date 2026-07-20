@@ -1,52 +1,24 @@
-# Incentive Growth
+# Incentive Growth: Cross-Company Cases
 
 > Incentive growth uses cash, coins, coupons, recovery, status, or access to change behavior. Incentives are useful when they reinforce product value and create retained incrementality after cost, fraud, and cannibalization.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
-
-- Which behavior should change and why is it valuable?
-- Is the reward monetary, functional, social, or protective?
-- What remains after the incentive declines or stops?
-
-## Cross-Company Patterns
-
-A horizontal capability matters only when it connects to a specific growth stage and customer value. Mature systems design process, ownership, data, feedback, and risk boundaries together.
+For incrementality, reward economics, and post-incentive retention, see [Incentive Growth](../../../handbook/incentive-growth/README.md).
 
 ## Company Evidence
 
 | Company | Evidence and approach |
 | --- | --- |
-| ByteDance | Cash, coins, coupons, referral rewards, Lite products, audience isolation, and anti-abuse. |
-| Duolingo | Streaks, Streak Freeze, milestones, notifications, and paid recovery boundaries. |
-| Facebook / Meta | Invitations and connection mechanics built around network value. |
+| [ByteDance](../../companies/bytedance/README.md) | Cash, coins, coupons, referral rewards, Lite products, audience isolation, and anti-abuse. |
+| [Duolingo](../../companies/duolingo/README.md) | Streaks, Streak Freeze, milestones, notifications, and paid recovery boundaries. |
+| [Facebook / Meta](../../companies/facebook/README.md) | Invitations and connection mechanics built around network value. |
 
-## Key Metrics
+## Comparison and Transfer
 
-- Eligible-to-action lift
-- Retained incremental behavior
-- Reward and fraud cost
-- Cannibalization and margin
-- Post-incentive retention
+ByteDance combines monetary rewards, product variants, portfolio movement, and anti-abuse; Duolingo uses functional and protective rewards around learning progress; Facebook uses invitations in service of network value. These mechanisms act through different motivations and risk profiles.
 
-## Transferable Method
-
-1. Define segment, behavior, eligibility, reward, duration, and stop condition.
-2. Use holdouts to estimate incrementality.
-3. Separate rewarded behavior from organic product signals.
-4. Measure portfolio cannibalization, trust, and abuse.
-
-## What Not to Copy Directly
-
-- Do not launch cash systems without risk-control capacity.
-- Do not use rewarded time or invitations as proof of satisfaction.
-
-## Related Companies and People
-
-- [ByteDance](../../companies/bytedance/README.md)
-- [Duolingo](../../companies/duolingo/README.md)
-- [Facebook / Meta](../../companies/facebook/README.md)
+Before transfer, define the organic baseline, holdout, full reward cost, post-incentive retention, fraud, cannibalization, fairness, and remaining product value.
 
 ## Evidence and Limits
 

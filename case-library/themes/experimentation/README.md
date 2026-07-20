@@ -1,56 +1,26 @@
-# Experimentation
+# Experimentation: Cross-Company Cases
 
 > Experimentation is a decision system for reducing important uncertainty. Test volume matters only when hypotheses address meaningful constraints, results are interpretable, and learning changes subsequent action.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
-
-- Which uncertainty blocks a high-value decision?
-- Can the intervention be measured with enough power and valid instrumentation?
-- What action follows a positive, negative, or inconclusive result?
-
-## Cross-Company Patterns
-
-A horizontal capability matters only when it connects to a specific growth stage and customer value. Mature systems design process, ownership, data, feedback, and risk boundaries together.
+For design, uncertainty, and decision rules, see [Experimentation](../../../handbook/experimentation/README.md).
 
 ## Company Evidence
 
 | Company | Evidence and approach |
 | --- | --- |
-| Ramp | Bet portfolios, conclusive failure, postmortems, and decision quality. |
-| Duolingo | Explore-exploit balance and repeated testing of retention mechanics. |
-| Airtable | Onboarding experiments connected to activation and downstream guardrails. |
-| Facebook / Meta | Instrumentation, cohorts, learning speed, and cross-functional testing. |
-| Lovable | Warning against high-volume testing of low-impact surfaces. |
+| [Ramp](../../companies/ramp/README.md) | Bet portfolios, conclusive failure, postmortems, and decision quality. |
+| [Duolingo](../../companies/duolingo/README.md) | Explore-exploit balance and repeated testing of retention mechanics. |
+| [Airtable](../../companies/airtable/README.md) | Onboarding experiments connected to activation and downstream guardrails. |
+| [Facebook / Meta](../../companies/facebook/README.md) | Instrumentation, cohorts, learning speed, and cross-functional testing. |
+| [Lovable](../../companies/lovable/README.md) | Warning against high-volume testing of low-impact surfaces. |
 
-## Key Metrics
+## Comparison and Transfer
 
-- Decision cycle time
-- Conclusive-result rate
-- Effect size and confidence interval
-- Guardrail movement
-- Learning reuse and repeated-test rate
+Ramp treats experiments as a bet portfolio and values conclusive failure; Duolingo repeatedly tunes retention mechanics; Airtable links onboarding tests to downstream quality; Facebook depends on instrumentation and cross-functional execution; Lovable warns that test velocity can hide larger product constraints.
 
-## Transferable Method
-
-1. Prioritize the decision before the experiment.
-2. Write hypothesis, population, metric, threshold, guardrails, and next action.
-3. Classify negative results as learning when they identify a sensitive user moment.
-4. Record changes to product, model, or process after analysis.
-
-## What Not to Copy Directly
-
-- Do not optimize experiment count as the strategy.
-- Do not run cosmetic tests while avoiding product, positioning, or model constraints.
-
-## Related Companies and People
-
-- [Ramp](../../companies/ramp/README.md)
-- [Duolingo](../../companies/duolingo/README.md)
-- [Airtable](../../companies/airtable/README.md)
-- [Facebook / Meta](../../companies/facebook/README.md)
-- [Lovable](../../companies/lovable/README.md)
+Transfer decision discipline, not experiment volume. Check power, instrumentation, product risk, implementation ownership, and whether the tested surface can materially change the outcome.
 
 ## Evidence and Limits
 

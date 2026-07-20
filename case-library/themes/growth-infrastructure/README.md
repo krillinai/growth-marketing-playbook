@@ -1,52 +1,24 @@
-# Growth Infrastructure
+# Growth Infrastructure: Cross-Company Cases
 
 > Growth infrastructure turns repeated measurement, delivery, lifecycle, creative, and decision work into reusable systems. Centralization is useful only when products share stable problems and local teams retain necessary context.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
-
-- Which repeated capability has stable inputs and outputs?
-- What must remain product- or market-specific?
-- How are automation, data access, risk, and audit controlled?
-
-## Cross-Company Patterns
-
-A horizontal capability matters only when it connects to a specific growth stage and customer value. Mature systems design process, ownership, data, feedback, and risk boundaries together.
+For platform boundaries, governance, and operating metrics, see [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md).
 
 ## Company Evidence
 
 | Company | Evidence and approach |
 | --- | --- |
-| ByteDance | LTV models, automated acquisition, creative systems, attribution, risk control, shared SDKs, and portfolio coordination. |
-| Facebook / Meta | Instrumentation, experimentation, translation, onboarding, and expansion systems. |
-| Ramp | Growth engineering, data-GTM connections, and shared AI-agent context. |
+| [ByteDance](../../companies/bytedance/README.md) | LTV models, automated acquisition, creative systems, attribution, risk control, shared SDKs, and portfolio coordination. |
+| [Facebook / Meta](../../companies/facebook/README.md) | Instrumentation, experimentation, translation, onboarding, and expansion systems. |
+| [Ramp](../../companies/ramp/README.md) | Growth engineering, data-GTM connections, and shared AI-agent context. |
 
-## Key Metrics
+## Comparison and Transfer
 
-- Adoption by internal teams
-- Cycle-time reduction
-- Decision accuracy and override rate
-- Data freshness and incident rate
-- Incremental downstream value
+ByteDance builds portfolio-scale acquisition, creative, LTV, attribution, and risk systems; Facebook combines shared data, experimentation, translation, and expansion capabilities; Ramp connects a smaller B2B stack through engineering, GTM data, and AI context. Their centralization reflects different scale and repetition.
 
-## Transferable Method
-
-1. Map repeated work across products before building a platform.
-2. Centralize stable capabilities, not every decision.
-3. Define owners, permissions, logs, overrides, and stop conditions.
-4. Measure internal adoption and customer outcomes together.
-
-## What Not to Copy Directly
-
-- Do not automate an unstable or unauditable process.
-- Do not copy infrastructure built for a scale, regulation, or portfolio you do not have.
-
-## Related Companies and People
-
-- [ByteDance](../../companies/bytedance/README.md)
-- [Facebook / Meta](../../companies/facebook/README.md)
-- [Ramp](../../companies/ramp/README.md)
+Centralize only stable repeated work. Compare internal consumers, service contracts, regulation, override needs, failure cost, and downstream customer value.
 
 ## Evidence and Limits
 
