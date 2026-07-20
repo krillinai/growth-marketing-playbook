@@ -14,6 +14,10 @@ A guide to AI search mechanics, content optimization, brand authority, technical
 
 A framework for North Star Metrics, business and funnel metrics, guardrails, and weekly growth reviews.
 
+### [Activation](activation/README.md)
+
+A framework for defining first value, building an activation metric tree, diagnosing friction, and validating activation against retention.
+
 ## Roadmap
 
 Future directions are listed in the repository [Roadmap](../ROADMAP.md). A planned topic does not imply a fixed release date or final directory structure.

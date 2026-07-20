@@ -27,8 +27,8 @@ Status: `●` available · `○` planned
 | ACQUISITION      | | ACTIVATION &     | | RETENTION &      | | MONETIZATION     | | REFERRAL &       |
 |                  | | CONVERSION       | | EXPANSION        | |                  | | GROWTH LOOPS     |
 +------------------+ +------------------+ +------------------+ +------------------+ +------------------+
-| ● GEO            | | ○ Onboarding     | | ○ Retention      | | ○ Pricing        | | ○ Referrals      |
-| ○ SEO            | | ○ CRO            | | ○ Lifecycle      | | ○ Revenue        | | ○ UGC            |
+| ● GEO            | | ● Activation     | | ○ Retention      | | ○ Pricing        | | ○ Referrals      |
+| ○ SEO            | | ○ Onboarding     | | ○ Lifecycle      | | ○ Revenue        | | ○ UGC            |
 | ○ Content        | | ○ Landing        | | ○ Email          | | ○ LTV / Payback  | | ○ Virality       |
 | ○ Social         | | ○ Offer          | | ○ Churn          | | ○ Upsell         | | ○ Product Loops  |
 | ○ Paid           | | ○ TTV            | | ○ Community      | | ○ Profit         | | ○ Advocacy       |
@@ -58,7 +58,7 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 | --- | --- | --- |
 | **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.md)<br>○ Lifecycle · Funnels · Growth Loops · Experiments · Positioning · PMF |
 | **Acquisition** | How the right audience discovers and reaches the product | ● [GEO Guide](handbook/geo/README.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
-| **Activation & Conversion** | How new users reach value and take the next meaningful action | ○ Onboarding · CRO · Landing Pages · Offers · Time to Value |
+| **Activation & Conversion** | How new users reach value and take the next meaningful action | ● [Activation](handbook/activation/README.md)<br>○ Onboarding · CRO · Landing Pages · Offers |
 | **Retention & Expansion** | How users stay, return, deepen usage, and expand | ○ Retention · Lifecycle Marketing · Email · Churn Prevention · Community |
 | **Monetization** | How customer value becomes durable, profitable revenue | ○ Pricing · Revenue Models · LTV · Payback · Upsell · Profitable Growth |
 | **Referral & Growth Loops** | How users and product activity create compounding distribution | ○ Referrals · UGC · Virality · Product Loops · Advocacy |
