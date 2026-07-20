@@ -3,6 +3,8 @@
 > 由专注**内容智能**与**全球增长**的AI团队[KrillinAI](https://github.com/KrillinAI)撰写并维护  
 > © 2025 KrillinAI 保留所有权利
 
+**[English](README.md)｜[简体中文](README.zh.md)**
+
 ## 🧩 文档主旨
 
 本知识库是**生成式引擎优化(GEO)**的**全面技术策略指南**——这门新兴学科致力于让您的品牌在AI生成答案中保持*可见性、可信度和可引用性*。
