@@ -9,3 +9,11 @@
 - [Alex Schultz](people/alex-schultz/README.zh.md)：Meta 首任 Chief Data Officer，围绕留存、Magic Moment、增长会计、北极星指标、数据系统与获客方法。
 - [Chamath Palihapitiya](people/chamath-palihapitiya/README.zh.md)：Facebook 前增长负责人，围绕核心产品价值、Aha Moment、关键行为指标和增长团队建设的方法。
 - [Naomi Gleit](people/naomi-gleit/README.zh.md)：Meta Head of Product，围绕激活、留存、新用户引导、数据埋点、实验与清晰的产品协作方法。
+
+## 案例解析
+
+- [Facebook 早期增长](cases/facebook-early-growth/README.zh.md)：产品价值、好友连接、激活、留存、数据、实验和国际化如何形成增长系统。
+
+## 公司
+
+- [Facebook / Meta](companies/facebook/README.zh.md)：连接增长阶段、案例、人物和一手资料的公司索引。
