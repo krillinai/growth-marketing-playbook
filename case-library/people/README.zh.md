@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | Alex Schultz | Meta 首任 Chief Data Officer；前 CMO 和 VP of Analytics | 留存、Magic Moment、增长会计、北极星指标、数据与实验 | [查看](alex-schultz/README.zh.md) |
 | Albert Cheng | 曾参与 Duolingo、Grammarly 与 Chess.com 增长 | Explore-Exploit、商业化、留存、实验与游戏化 | [查看](albert-cheng/README.zh.md) |
+| Andrew Chen | Andreessen Horowitz General Partner；Uber 前 Rider Growth 负责人 | 网络效应、Marketplace、Atomic Network、供给增长与增长循环 | [查看](andrew-chen/README.zh.md) |
 | Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [查看](chamath-palihapitiya/README.zh.md) |
 | Elena Verna | 曾负责 SurveyMonkey、Miro、Amplitude、Dropbox 与 Lovable 增长 | PLG、PLS、商业化、增长模型、自然分发与实验 | [查看](elena-verna/README.zh.md) |
 | Eric Glyman | Ramp 联合创始人兼 CEO | 客户节省、商业模式激励、聚焦、速度与 AI 自动化 | [查看](eric-glyman/README.zh.md) |
