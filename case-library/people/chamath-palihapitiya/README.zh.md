@@ -190,5 +190,4 @@ Chamath 在演讲中提到早期增长团队成员 James Wang、Naomi Gleit、Al
 ## 相关手册内容
 
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
-- [AI Agent 指标使用指南](../../../handbook/metrics/agent-guide.zh.md)
 - [GEO 完全指南](../../../handbook/geo/README.zh.md)

@@ -16,8 +16,8 @@
 覆盖北极星指标、商业与漏斗指标、护栏指标和周度增长复盘，并定义 AI Agent 使用指标的规则。
 
 - [指标体系](metrics/README.zh.md)
-- [AI Agent 指标使用指南](metrics/agent-guide.zh.md)
-- 当前语言：中文
+- [English](metrics/README.md)
+- [中文](metrics/README.zh.md)
 
 ## 规划中
 

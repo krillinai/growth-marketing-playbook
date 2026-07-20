@@ -658,6 +658,8 @@ Meta tags are no longer just SEO tools — they now communicate **intent, author
 
 Generative Engine Optimization (GEO) is only as powerful as its measurement.  To grow visibility within AI engines, you need to track **how**, **where**, and **why** your brand appears in AI-generated answers — and how that visibility evolves over time.
 
+The AI visibility, citation, and mention metrics in this chapter are specific to GEO. When designing a complete measurement system, use the general [Growth Metrics System](../metrics/README.md) to connect GEO performance with acquisition, conversion, retention, and business outcomes.
+
 This chapter introduces the key tools, metrics, and frameworks for **monitoring, analyzing, and improving** GEO performance.
 
 ## 7.1 Content Audit Tools
