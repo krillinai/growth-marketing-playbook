@@ -76,7 +76,7 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **Tools** | Growth and marketing tools organized by job, stage, and use case | ○ Tool directory |
-| **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | ○ Skills index |
+| **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | ○ [krillinai/growth-skills](https://github.com/krillinai/growth-skills) · Companion repository created; content in progress |
 | **Workflows** | Repeatable combinations of handbook methods, tools, and Skills | ○ Workflow index |
 
 See the [Roadmap](ROADMAP.md) for how this structure will grow as complete material is added.
