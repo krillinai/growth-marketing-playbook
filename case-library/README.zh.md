@@ -10,6 +10,7 @@
 - [Chamath Palihapitiya](people/chamath-palihapitiya/README.zh.md)：Facebook 前增长负责人，围绕核心产品价值、Aha Moment、关键行为指标和增长团队建设的方法。
 - [Elena Verna](people/elena-verna/README.zh.md)：跨公司增长负责人，围绕 PLG、PLS、商业化、增长模型、自然分发与实验的方法。
 - [Naomi Gleit](people/naomi-gleit/README.zh.md)：Meta Head of Product，围绕激活、留存、新用户引导、数据埋点、实验与清晰的产品协作方法。
+- [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF Test、激活、北极星指标、ICE 排序与高频实验的方法。
 
 ## [案例解析](cases/README.zh.md)
 

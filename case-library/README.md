@@ -10,6 +10,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Chamath Palihapitiya](people/chamath-palihapitiya/README.md): Former Facebook growth leader whose methods focus on core product value, Aha Moments, key behavior metrics, and growth team design.
 - [Elena Verna](people/elena-verna/README.md): Cross-company growth operator focused on PLG, PLS, monetization, growth models, earned distribution, and experimentation.
 - [Naomi Gleit](people/naomi-gleit/README.md): Meta Head of Product; activation, retention, onboarding, instrumentation, experimentation, and clear product operations.
+- [Sean Ellis](people/sean-ellis/README.md): PMF Test, activation, North Star Metrics, ICE prioritization, and high-tempo experimentation.
 
 ## [Case Studies](cases/README.md)
 

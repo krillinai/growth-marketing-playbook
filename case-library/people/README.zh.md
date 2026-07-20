@@ -12,3 +12,4 @@
 | Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [查看](chamath-palihapitiya/README.zh.md) |
 | Elena Verna | 曾负责 SurveyMonkey、Miro、Amplitude、Dropbox 与 Lovable 增长 | PLG、PLS、商业化、增长模型、自然分发与实验 | [查看](elena-verna/README.zh.md) |
 | Naomi Gleit | Meta Head of Product；Facebook 早期增长产品经理 | 激活、留存、新用户引导、数据埋点、实验与产品领导 | [查看](naomi-gleit/README.zh.md) |
+| Sean Ellis | 曾参与 LogMeIn、Dropbox、Eventbrite 与 Lookout 早期增长；GrowthHackers 创始人 | PMF Test、激活、北极星指标、ICE 与高频实验 | [查看](sean-ellis/README.zh.md) |

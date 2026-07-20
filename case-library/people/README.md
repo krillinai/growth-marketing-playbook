@@ -12,3 +12,4 @@ This section documents growth practitioners, their experience, methods, represen
 | Chamath Palihapitiya | Former Facebook VP of User Growth; founder of Social Capital | Core product value, Aha Moments, key behavior metrics, growth organization | [Profile](chamath-palihapitiya/README.md) |
 | Elena Verna | Growth leader across SurveyMonkey, Miro, Amplitude, Dropbox, and Lovable | PLG, PLS, monetization, growth models, earned distribution, experimentation | [Profile](elena-verna/README.md) |
 | Naomi Gleit | Meta Head of Product; early Facebook growth product manager | Activation, retention, onboarding, instrumentation, experimentation, product leadership | [Profile](naomi-gleit/README.md) |
+| Sean Ellis | Early growth leader at LogMeIn, Dropbox, Eventbrite, and Lookout; GrowthHackers founder | PMF Test, activation, North Star Metrics, ICE, high-tempo experimentation | [Profile](sean-ellis/README.md) |
