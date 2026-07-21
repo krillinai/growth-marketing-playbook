@@ -12,9 +12,10 @@ For definitions, metrics, cohort analysis, and diagnosis, see the Handbook chapt
 | --- | --- | --- | --- | --- |
 | Airtable | A flexible collaborative product with many possible first use cases | A useful first workflow followed by meaningful collaboration | Segment onboarding by intent, use templates, reduce blank-state work, and connect setup to a real workflow | Later collaboration and retained workspace behavior, not onboarding completion alone |
 | Facebook / Meta | An early social network whose value depended on a sufficient connection graph | Early friend connections and the Magic Moment hypothesis | Identify behaviors associated with retained users, improve connection formation, and instrument early cohorts | Retention and repeated social value after the early connection behavior |
+| Pinterest | A discovery product reached through many logged-out pins, boards, and topics | Understanding a relevant use case and receiving useful personalized ideas | Optimize actual entry pages and connect Setup, Aha, and Habit | Retained use and value-bearing behavior after signup, not entry-page conversion alone |
 | Sean Ellis | A product-agnostic method for finding and improving the point at which users experience must-have value | Product-specific Aha Moment or value event learned from retained users | Interview must-have users, map their successful path, and focus experiments on the largest activation constraint | Stronger downstream retention among users who reach the proposed value event |
 
-The proxies are not interchangeable. Airtable needs a useful workflow and often collaborative reinforcement; Facebook depended on network value; Sean Ellis provides a method for discovering a product-specific proxy rather than prescribing one.
+The proxies are not interchangeable. Airtable needs a useful workflow and often collaborative reinforcement; Facebook depended on network value; Pinterest needs visitors to understand a relevant discovery use case across varied entry pages; Sean Ellis provides a method for discovering a product-specific proxy rather than prescribing one.
 
 ## Airtable
 
@@ -131,6 +132,7 @@ Landing pages and offer design remain supporting tactics rather than standalone 
 ## Related People
 
 - [Andrew Chen](../../people/andrew-chen/README.md): early retention, engagement walls, lifecycle reach, and the Next Feature Fallacy.
+- [Casey Winters](../../people/casey-winters/README.md): Setup-Aha-Habit, entry-surface conversion, and retention-based onboarding validation.
 
 ## Evidence and Limits
 

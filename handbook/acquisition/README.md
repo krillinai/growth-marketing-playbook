@@ -84,6 +84,26 @@ Content creates demand by explaining a problem, demonstrating value, building tr
 
 Do not count content volume or follower growth as customer value. Separate earned response from demand that would have arrived through other channels.
 
+## Scalable SEO Page Systems
+
+SEO becomes a product capability when structured supply, user-generated content, or deliberately produced content can satisfy many specific intents without creating thin pages.
+
+```text
+Intent taxonomy
+-> useful page template and content source
+-> indexable logged-out experience
+-> qualified next action
+-> activation and retention
+```
+
+Measure indexed quality, qualified traffic, conversion by entry page, downstream activation, retention, and content maintenance cost. Page volume alone is not an outcome.
+
+## Kindle and Fire Strategies
+
+Early “kindle” strategies use manual, narrow, or unscalable work to find a retained customer segment and learn why the mechanism works. “Fire” strategies convert that learning into repeatable acquisition.
+
+Move toward scale only after the customer, value, channel-model fit, and marginal economics are understood. Scaling before PMF magnifies leakage; remaining manual after the mechanism is proven limits compounding.
+
 ## Common Mistakes
 
 - Treating impressions, clicks, installs, leads, or signups as growth.
@@ -96,6 +116,9 @@ Do not count content volume or follower growth as customer value. Separate earne
 - [Airbnb](../../case-library/companies/airbnb/README.md): productized access to an existing demand channel and its platform boundaries.
 - [Dropbox](../../case-library/companies/dropbox/README.md): weak paid-search economics versus native sharing and referral.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): channel decay, marginal CAC, and paid-marketing concentration.
+- [Pinterest](../../case-library/companies/pinterest/README.md): structured SEO pages and conversion on actual entry surfaces.
+- [Eventbrite](../../case-library/companies/eventbrite/README.md): kindle-to-fire acquisition and scaling boundaries.
+- [Casey Winters](../../case-library/people/casey-winters/README.md): sustainable acquisition and channel-model fit.
 
 ## Case Comparison
 

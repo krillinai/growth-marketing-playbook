@@ -17,6 +17,7 @@ For metric hierarchy, formulas, guardrails, and review cadence, see [Growth Metr
 | [Uber](../../companies/uber/README.md) | Local supply, liquidity, fulfillment, cross-side retention, incentives, and marketplace economics. |
 | [Dropbox](../../companies/dropbox/README.md) | AI search-result quality, realistic task evaluation, failure analysis, and repeated customer use. |
 | [Shopify](../../companies/shopify/README.md) | Merchant journey, customer outcomes, and acquisition-retention balance rather than isolated channel volume. |
+| [Grubhub](../../companies/grubhub/README.md) | Local restaurant coverage, order liquidity, fulfillment, repeat diners, multi-homing, and participant economics. |
 
 ## Comparison and Transfer
 
@@ -28,6 +29,7 @@ Before transfer, define the customer-value event, observed versus predicted meas
 
 - [Andrew Chen](../../people/andrew-chen/README.md): Power User Curves, CAC/CPA, NPS source boundaries, consumer benchmarks, network density, and liquidity.
 - [Brian Balfour](../../people/brian-balfour/README.md): growth models linking product, channel, retention, loops, and economics.
+- [Casey Winters](../../people/casey-winters/README.md): retention-based PMF, marketplace density, entry-page conversion, and growth models.
 - [Morgan Brown](../../people/morgan-brown/README.md): constraint diagnosis, customer outcomes, and evaluation that separates activity from progress.
 
 

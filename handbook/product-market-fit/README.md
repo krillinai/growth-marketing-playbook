@@ -105,6 +105,8 @@ AI-native categories make this especially visible because model capability, cost
 - [Elena Verna](../../case-library/people/elena-verna/README.md): growth cannot manufacture PMF and AI-native fit must be re-earned.
 - [Alex Schultz](../../case-library/people/alex-schultz/README.md): PMF and retention before acquisition tactics.
 - [Lovable](../../case-library/companies/lovable/README.md): repeated fit in a fast-changing AI category.
+- [Casey Winters](../../case-library/people/casey-winters/README.md): cohort retention as the main behavioral evidence of fit and the boundary between kindle and scalable acquisition.
+- [Grubhub](../../case-library/companies/grubhub/README.md): marketplace fit depends on local supply, demand, fulfillment, and participant economics.
 
 ## Evidence and Limits
 

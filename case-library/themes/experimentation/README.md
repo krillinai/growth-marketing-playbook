@@ -16,10 +16,11 @@ For design, uncertainty, and decision rules, see [Experimentation](../../../hand
 | [Facebook / Meta](../../companies/facebook/README.md) | Instrumentation, cohorts, learning speed, and cross-functional testing. |
 | [Lovable](../../companies/lovable/README.md) | Warning against high-volume testing of low-impact surfaces. |
 | [Dropbox](../../companies/dropbox/README.md) | AI-result evaluation, customer outcomes, and the distinction between shipping motion and measurable progress. |
+| [Pinterest](../../companies/pinterest/README.md) | Entry-page and signup experiments read with product comprehension, user happiness, activation, and retention. |
 
 ## Comparison and Transfer
 
-Ramp treats experiments as a bet portfolio and values conclusive failure; Duolingo repeatedly tunes retention mechanics; Airtable links onboarding tests to downstream quality; Facebook depends on instrumentation and cross-functional execution; Lovable warns that test velocity can hide larger constraints; Dropbox requires evaluation that can distinguish AI-product progress from shipping activity.
+Ramp treats experiments as a bet portfolio and values conclusive failure; Duolingo repeatedly tunes retention mechanics; Airtable links onboarding tests to downstream quality; Facebook depends on instrumentation and cross-functional execution; Lovable warns that test velocity can hide larger constraints; Dropbox distinguishes AI-product progress from shipping activity; Pinterest combines entry-page experiments with qualitative understanding and downstream retention.
 
 Transfer decision discipline, not experiment volume. Check power, instrumentation, product risk, implementation ownership, and whether the tested surface can materially change the outcome.
 
@@ -27,6 +28,7 @@ Transfer decision discipline, not experiment volume. Check power, instrumentatio
 
 - [Brian Balfour](../../people/brian-balfour/README.md): hypothesis-driven viral experiments, growth machines, and learning systems.
 - [Morgan Brown](../../people/morgan-brown/README.md): constraint-led hypotheses, scientific learning, and AI-product evaluation.
+- [Casey Winters](../../people/casey-winters/README.md): conversion experiments, qualitative research, downstream validation, and growth-model diagnosis.
 
 
 ## Evidence and Limits

@@ -14,6 +14,7 @@
 | [Airbnb](../../companies/airbnb/README.zh.md) | 早期 Marketplace 分发 | 产品化跨平台发布到已有需求渠道 | 合格回流、房源、交易与留存使用；平台规则、归因和历史环境限制迁移 |
 | [Facebook / Meta](../../companies/facebook/README.zh.md) | 早期社交网络扩张 | 校园顺序、国际化、移除扩张障碍 | 本地网络密度与留存社交使用；历史环境特殊 |
 | [Lovable](../../companies/lovable/README.zh.md) | 受到公开关注的快速 AI 产品 | 信任、员工参与、发布、客户证明与自然分发 | 发布后持续采用；创始人与员工影响力不可假定 |
+| [Pinterest](../../companies/pinterest/README.zh.md) | 通过大量未登录内容页进行消费发现 | 结构化 SEO 页面、UGC、主题聚合与入口界面转化 | 合格搜索流量、激活、留存与页面质量；搜索政策、内容供给和历史方法限制迁移 |
 | [Ramp](../../companies/ramp/README.zh.md) | 高信任、多决策者的 B2B 金融 | 品牌、产品差异、活动、内容与增长工程 | 合格 Pipeline、激活与回本；销售周期限制迁移 |
 | [Shopify](../../companies/shopify/README.zh.md) | 服务不同阶段商家的平台 | 内容、社区、产品价值与约束驱动的渠道选择 | 商家质量、持续使用、获客与留存平衡；商家分层和商业周期限制迁移 |
 | [Uber](../../companies/uber/README.zh.md) | 本地双边 Marketplace | 司机供给、乘客需求、激励与城市运营 | 流动性、成功行程、跨边留存与经济性；劳动、监管、资本和地理限制迁移 |
@@ -36,13 +37,15 @@
 | [付费获客](../../../handbook/acquisition/README.zh.md#付费获客) | 字节跳动；Ramp | LTV 与 ROI 周期、自动化、素材、回本与边际经济性 |
 | [内容](../../../handbook/acquisition/README.zh.md#内容与社媒分发) | Ramp；Lovable | 品类教育、产品证明、品牌差异与需求创造 |
 | [社媒分发](../../../handbook/acquisition/README.zh.md#内容与社媒分发) | Lovable；Duolingo 品牌证据 | 员工和客户参与、发布、身份与自然触达 |
+| [SEO 页面系统](../../../handbook/acquisition/README.zh.md#可规模化-seo-页面系统) | Pinterest | 结构化供给、UGC、真实入口页、合格转化与留存价值 |
 
-SEO、合作伙伴和社区仍缺少足够直接证据，不建立独立章节。
+合作伙伴和社区仍缺少足够直接证据，不建立独立章节。
 
 ## 相关人物
 
 - [Andrew Chen](../../people/andrew-chen/README.zh.md)：渠道衰减、付费依赖、产品化分发、Hard Side 供给与 Marketplace 密度。
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：Product-Channel Fit、渠道模式约束与增长模型。
+- [Casey Winters](../../people/casey-winters/README.zh.md)：结构化 SEO、Kindle 到 Fire 的获客、Marketplace 供给与可持续扩张。
 - [Morgan Brown](../../people/morgan-brown/README.zh.md)：内容与社区、约束驱动的渠道选择、获客与留存平衡。
 
 

@@ -16,10 +16,11 @@ For loop models, metrics, and diagnosis, see [Referral & Growth Loops](../../../
 | [Lovable](../../companies/lovable/README.md) | Product demonstrations, employees, customers, launches | Visible proof that attracts more builders and outputs | Public attention and employee reach may not repeat or transfer |
 | [Uber](../../companies/uber/README.md) | Local supply availability and rider demand | Better liquidity can reinforce cross-side participation | Quality, economics, regulation, and multi-homing can weaken the loop |
 | [Dropbox](../../companies/dropbox/README.md) | Useful storage, collaboration, and value-aligned referral capacity | New users receive product capacity and can enter the product loop | Reward economics and signup volume must be validated against retained use |
+| [Grubhub](../../companies/grubhub/README.md) | Relevant restaurants, local diner demand, and later delivery supply | Denser ordering and fulfillment can reinforce participant value | Multi-homing, logistics, economics, and competing network structures can break the loop |
 
 ## Comparison
 
-Facebook's loop is structurally networked, Duolingo makes progress and identity shareable, ByteDance can subsidize and coordinate portfolio movement, and Lovable turns visible product output into proof. Only some of these mechanisms are viral; all require a recipient to reach real value before the loop is complete.
+Facebook's loop is structurally networked, Duolingo makes progress and identity shareable, ByteDance can subsidize portfolio movement, Lovable turns visible output into proof, Dropbox embeds sharing in utility, and Uber and Grubhub depend on marketplace density. Only some mechanisms are viral; all require participants to reach real value before the loop is complete.
 
 ## Transfer Questions
 
@@ -42,6 +43,7 @@ UGC appears inside several loops, but creator-system evidence remains too thin f
 
 - [Andrew Chen](../../people/andrew-chen/README.md): retention-adjusted virality, native sharing, atomic networks, hard sides, and marketplace loops.
 - [Brian Balfour](../../people/brian-balfour/README.md): loops as operating models and funnels as transition diagnostics.
+- [Casey Winters](../../people/casey-winters/README.md): conditional network effects, marketplace growth models, supply, and category expansion.
 - [Morgan Brown](../../people/morgan-brown/README.md): growth systems connecting product value, distribution, retention, and experimentation.
 
 

@@ -12,6 +12,7 @@
 | Albert Cheng | 曾参与 Duolingo、Grammarly 与 Chess.com 增长 | Explore-Exploit、商业化、留存、实验与游戏化 | [查看](albert-cheng/README.zh.md) |
 | Andrew Chen | Andreessen Horowitz General Partner；Uber 前 Rider Growth 负责人 | 网络效应、Marketplace、Atomic Network、供给增长与增长循环 | [查看](andrew-chen/README.zh.md) |
 | Brian Balfour | Reforge 创始人兼 CEO；HubSpot 前 VP of Growth | 增长模型、Four Fits、留存、分发、循环、实验与 PLG | [查看](brian-balfour/README.zh.md) |
+| Casey Winters | Eventbrite 前 CPO、Pinterest 前增长负责人、Grubhub 前运营者；SuperMe CEO | 留存、新用户引导、Marketplace、SEO、转化、可持续获客与增长组织 | [查看](casey-winters/README.zh.md) |
 | Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [查看](chamath-palihapitiya/README.zh.md) |
 | Elena Verna | 曾负责 SurveyMonkey、Miro、Amplitude、Dropbox 与 Lovable 增长 | PLG、PLS、商业化、增长模型、自然分发与实验 | [查看](elena-verna/README.zh.md) |
 | Eric Glyman | Ramp 联合创始人兼 CEO | 客户节省、商业模式激励、聚焦、速度与 AI 自动化 | [查看](eric-glyman/README.zh.md) |

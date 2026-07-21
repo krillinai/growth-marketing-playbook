@@ -64,6 +64,8 @@
 
 - [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：增长团队使命、所有权光谱、招聘信号、Reach、Impact 与组织适配。
 - [Uber](../../case-library/companies/uber/README.zh.md)：所有权演进与按地域限制范围的实验。
+- [Casey Winters](../../case-library/people/casey-winters/README.zh.md)：增长团队演进、数据驱动决策、产品领导力与取舍沟通。
+- [Eventbrite](../../case-library/companies/eventbrite/README.zh.md)：CPO 范围、职能边界与可持续增长所有权。
 
 ## 常见错误
 

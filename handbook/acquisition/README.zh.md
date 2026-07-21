@@ -84,6 +84,26 @@
 
 不要把内容数量或粉丝增长当成客户价值，并应区分自然响应与本来会从其他渠道到来的需求。
 
+## 可规模化 SEO 页面系统
+
+当结构化供给、UGC 或主动生产内容可以满足大量具体意图，同时避免形成单薄页面时，SEO 就成为产品能力。
+
+```text
+意图分类
+-> 有用的页面模板与内容来源
+-> 可索引的未登录体验
+-> 合格下一步行为
+-> 激活与留存
+```
+
+应衡量索引质量、合格流量、入口页转化、下游激活、留存与内容维护成本。页面数量本身不是结果。
+
+## Kindle 与 Fire 策略
+
+早期“Kindle”策略使用人工、狭窄或不可规模化的工作发现留存客户分群，并理解机制为何有效。“Fire”策略把这些学习转化成可重复获客。
+
+只有理解客户、价值、渠道模式匹配与边际经济性后，才适合进入规模化。PMF 前扩张会放大漏损；机制得到证明后仍停留在人工阶段，又会限制复利。
+
 ## 常见错误
 
 - 把曝光、点击、安装、线索或注册当成增长。
@@ -96,6 +116,9 @@
 - [Airbnb](../../case-library/companies/airbnb/README.zh.md)：产品化接入已有需求渠道及其平台边界。
 - [Dropbox](../../case-library/companies/dropbox/README.zh.md)：较弱付费搜索经济性与原生分享、推荐的对比。
 - [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：渠道衰减、边际 CAC 与付费营销集中。
+- [Pinterest](../../case-library/companies/pinterest/README.zh.md)：结构化 SEO 页面与真实入口界面的转化。
+- [Eventbrite](../../case-library/companies/eventbrite/README.zh.md)：Kindle 到 Fire 的获客与规模边界。
+- [Casey Winters](../../case-library/people/casey-winters/README.zh.md)：可持续获客与渠道模式匹配。
 
 ## 案例对比
 

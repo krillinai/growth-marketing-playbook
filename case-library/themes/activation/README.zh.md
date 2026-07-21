@@ -12,9 +12,10 @@
 | --- | --- | --- | --- | --- |
 | Airtable | 用途很多、配置灵活的协作产品 | 第一个有用工作流，以及后续有意义的协作 | 按意图设计引导、使用模板、减少空白状态工作，并让设置连接真实工作流 | 后续协作与工作区持续行为，而不是只看引导完成 |
 | Facebook / Meta | 产品价值依赖足够社交连接的早期社交网络 | 早期好友连接与 Magic Moment 假设 | 寻找与留存相关的行为、改善关系建立，并对早期 Cohort 建立埋点 | 发生早期连接之后的留存与重复社交价值 |
+| Pinterest | 通过大量未登录 Pin、Board 与 Topic 进入的发现产品 | 理解相关用途并获得有用的个性化灵感 | 优化真实入口页并连接 Setup、Aha 与 Habit | 注册后的留存与价值行为，而不是只看入口页转化 |
 | Sean Ellis | 寻找并改善用户获得 Must-have 价值节点的通用方法 | 从留存用户中发现、由具体产品定义的 Aha Moment 或价值事件 | 访谈 Must-have 用户、还原成功路径，并围绕最大激活约束做实验 | 到达候选价值事件的用户是否具有更强下游留存 |
 
-这些代理信号不能互换。Airtable 需要有用工作流，并经常通过协作强化价值；Facebook 依赖网络价值；Sean Ellis 提供的是发现产品特定代理信号的方法，而不是规定某个事件。
+这些代理信号不能互换。Airtable 需要有用工作流，并经常通过协作强化价值；Facebook 依赖网络价值；Pinterest 需要让不同入口页的访问者理解相关发现用途；Sean Ellis 提供的是发现产品特定代理信号的方法，而不是规定某个事件。
 
 ## Airtable
 
@@ -129,6 +130,7 @@ Landing Page 和 Offer 仍是辅助策略，不建立独立模块。
 ## 相关人物
 
 - [Andrew Chen](../../people/andrew-chen/README.zh.md)：早期留存、参与墙、生命周期 Reach 与 Next Feature Fallacy。
+- [Casey Winters](../../people/casey-winters/README.zh.md)：Setup-Aha-Habit、入口界面转化与留存验证的新用户引导。
 
 ## 证据与局限
 

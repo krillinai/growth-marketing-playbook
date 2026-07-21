@@ -17,10 +17,12 @@ For organization models, decision rights, and diagnosis, see [Growth Organizatio
 | [Shopify](../../companies/shopify/README.md) | Product and marketing coordination around merchant constraints, content, community, acquisition, and retention. |
 | [Dropbox](../../companies/dropbox/README.md) | Customer obsession, explicit evaluation criteria, and alignment that supports rather than replaces decisions. |
 | [Uber](../../companies/uber/README.md) | Evolving ownership models, geographically scoped experiments, and staffing around marketplace constraints. |
+| [Eventbrite](../../companies/eventbrite/README.md) | CPO scope across product, design, research, and growth marketing; functional boundaries and sustainable ownership. |
+| [Pinterest](../../companies/pinterest/README.md) | Growth-team specialization, entry-surface ownership, data-driven decisions, and international growth work. |
 
 ## Comparison and Transfer
 
-Ramp emphasizes focused autonomy and complementary talent; ByteDance combines a shared UG platform with local execution and risk separation; Facebook uses cross-functional teams with product and data access; Lovable keeps building and public communication unusually close; Uber illustrates ownership changing as scope and execution needs expand. These are responses to different constraints, not universal org charts.
+Ramp emphasizes focused autonomy and complementary talent; ByteDance combines a shared UG platform with local execution; Facebook uses cross-functional teams with product and data access; Lovable keeps building and public communication close; Uber and Pinterest illustrate ownership changing as scope and specialization expand; Eventbrite adds the CPO-level boundary across product, research, design, and growth marketing. These are responses to different constraints, not universal org charts.
 
 Before transfer, identify the current constraint, accountable outcome, required functions, decision rights, shared capabilities, dependency cost, and sustainability guardrails.
 
@@ -28,6 +30,7 @@ Before transfer, identify the current constraint, accountable outcome, required 
 
 - [Andrew Chen](../../people/andrew-chen/README.md): ownership models, growth-team boundaries, hiring signals, reach, impact, and organizational fit.
 - [Brian Balfour](../../people/brian-balfour/README.md): multi-dimensional growth expertise, constraint ownership, and the growth machine.
+- [Casey Winters](../../people/casey-winters/README.md): team evolution, product leadership, decision rights, and communicating growth tradeoffs.
 - [Morgan Brown](../../people/morgan-brown/README.md): product-marketing integration, constraint ownership, and customer-led AI product work.
 
 

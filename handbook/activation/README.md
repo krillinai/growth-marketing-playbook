@@ -174,10 +174,22 @@ Expected absolute movement = eligible reach x expected impact x confidence
 
 Evaluate whether the constraint sits on a landing page, in onboarding, at first value, in resurrection, or inside the retained-user experience. A high-reach early step can move more downstream users than a larger percentage improvement on a rarely used feature.
 
+## Setup, Aha, and Habit
+
+| Stage | Purpose | Failure signal |
+| --- | --- | --- |
+| Setup | Collect the minimum inputs, configuration, content, or connections required for value | Users complete registration but cannot receive a useful result |
+| Aha | Deliver a recognizable instance of core value | Users finish setup but do not understand why the product matters |
+| Habit | Establish a credible path to repeated value at the natural cadence | Initial value occurs but cohorts do not return |
+
+Do not optimize each stage independently. Removing setup can increase completion while weakening Aha; forcing commitment too early can reduce trust; reminders cannot create a habit when no recurring value exists.
+
 ## Related Evidence
 
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): Next Feature Fallacy, engagement walls, reach, and early retention.
 - [Airbnb](../../case-library/companies/airbnb/README.md): cross-channel listing completion and qualified downstream transactions.
+- [Pinterest](../../case-library/companies/pinterest/README.md): entry-page conversion, product comprehension, and Setup-Aha-Habit.
+- [Casey Winters](../../case-library/people/casey-winters/README.md): onboarding as preparation for retained value.
 
 ## Common Mistakes
 

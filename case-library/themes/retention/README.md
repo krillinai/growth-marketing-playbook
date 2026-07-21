@@ -15,10 +15,11 @@ For retention models, cohort metrics, and diagnosis, see [Retention](../../../ha
 | [Airtable](../../companies/airtable/README.md) | Useful workflows that remain part of work | Artifacts, collaborators, repeated team use | Later collaboration and workspace behavior; usage frequency varies by workflow |
 | [Shopify](../../companies/shopify/README.md) | Repeated merchant success and continued platform value | Product capability, education, community, and lifecycle support | Retained merchant use and business outcomes; acquisition volume alone is insufficient |
 | [Dropbox](../../companies/dropbox/README.md) | File utility, collaborative work, and AI-assisted knowledge access | Stored value, collaboration, expansion, and repeated successful retrieval | Cohort use and task quality; AI feature shipment does not establish retention |
+| [Pinterest](../../companies/pinterest/README.md) | Repeated discovery and saving of relevant ideas | Personalized content, interests, and returning use cases | Cohort retention after Setup and Aha; search conversion alone is insufficient |
 
 ## Comparison
 
-Duolingo reinforces an individual habit, Facebook compounds network value, Airtable embeds workflows in team operations, Shopify depends on continued merchant success, and Dropbox combines stored utility, collaboration, and successful retrieval. The visible mechanics differ, but each case connects return behavior to recurring value rather than reminders alone.
+Duolingo reinforces an individual habit, Facebook compounds network value, Airtable embeds workflows in team operations, Shopify depends on continued merchant success, Dropbox combines stored utility and collaboration, and Pinterest depends on repeated relevant discovery. The visible mechanics differ, but each case connects return behavior to recurring value rather than reminders alone.
 
 ## Transfer Questions
 
@@ -41,6 +42,7 @@ Direct email-program evidence remains too thin for a standalone chapter.
 
 - [Andrew Chen](../../people/andrew-chen/README.md): early retention curves, frequency distributions, and retention-adjusted virality.
 - [Brian Balfour](../../people/brian-balfour/README.md): cohort retention as the foundation of growth models and continuing PMF.
+- [Casey Winters](../../people/casey-winters/README.md): retention as PMF evidence, Setup-Aha-Habit, and category-specific cadence.
 - [Morgan Brown](../../people/morgan-brown/README.md): acquisition-retention balance and recurring customer value across commerce and AI products.
 
 
