@@ -1,7 +1,7 @@
 # GEO 完全指南 - 生成式引擎优化
 
 > 由专注**内容智能**与**全球增长**的AI团队[KrillinAI](https://github.com/KrillinAI)撰写并维护  
-> © 2026 KrillinAI 保留所有权利
+> © 2026 KrillinAI。采用 [MIT License](../../LICENSE)。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 

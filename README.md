@@ -90,3 +90,7 @@ See the [Roadmap](ROADMAP.md) for how this structure will grow as complete mater
 ## Contributing
 
 Growth Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
+
+## License
+
+Growth Playbook is available under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense, and sell copies subject to the license terms. The material is provided without warranty.
