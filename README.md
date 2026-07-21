@@ -50,7 +50,7 @@ Status: `●` available · `○` planned
                                   |  Growth Stages / Capabilities    |
                                   |  Companies / People & Ideas      |
                                   +----------------------------------+
-                                  | ○ Toolkit                        |
+                                  | ● Toolkit                        |
                                   |  Tools / Growth Skills / Flows   |
                                   +----------------------------------+
                                                    |
@@ -84,7 +84,7 @@ The **Foundations** define how growth is understood, the **Growth Journey** show
 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
-| **Tools** | Growth and marketing tools organized by job, stage, and use case | ○ Tool directory |
+| **Tools** | Growth and marketing tools organized by job, stage, and use case | ● [Semrush](toolkit/tools/semrush/README.md)<br>[View tools](toolkit/tools/README.md) |
 | **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [krillinai/growth-skills](https://github.com/krillinai/growth-skills) |
 | **Workflows** | Repeatable combinations of handbook methods, tools, and Skills | ○ Workflow index |
 
