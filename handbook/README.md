@@ -10,6 +10,8 @@ This index lists modules with complete, useful material. A new module directory 
 
 A repeatable method for identifying the primary growth constraint, evaluating evidence, selecting 30-day actions, and choosing the right execution route.
 
+[Questions](diagnosis/questions.md) · [Output Template](diagnosis/output-template.md) · [Examples](diagnosis/examples/README.md)
+
 ### [GEO: Generative Engine Optimization](geo/README.md)
 
 A guide to AI search mechanics, content optimization, brand authority, technical implementation, and performance analysis.

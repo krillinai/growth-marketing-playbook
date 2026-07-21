@@ -167,6 +167,13 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 
 机器可读协议见 [`protocol.schema.json`](protocol.schema.json)。
 
+| 操作资产 | 链接 |
+| --- | --- |
+| 诊断问题 | [诊断问题](questions.zh.md) |
+| 输出模板 | [诊断输出模板](output-template.zh.md) |
+| 示例 | [诊断示例](examples/README.zh.md) |
+| JSON Schema | [`protocol.schema.json`](protocol.schema.json) |
+
 ## 执行路径
 
 ### 自助执行

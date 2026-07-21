@@ -167,6 +167,13 @@ Use this structure for a human review, AI Agent response, or clawee.ai diagnosis
 
 The machine-readable contract is available in [`protocol.schema.json`](protocol.schema.json).
 
+| Operational asset | Link |
+| --- | --- |
+| Questions | [Diagnostic Questions](questions.md) |
+| Output Template | [Diagnostic Output Template](output-template.md) |
+| Examples | [Diagnosis Examples](examples/README.md) |
+| JSON Schema | [`protocol.schema.json`](protocol.schema.json) |
+
 ## Execution Routes
 
 ### Self-Serve

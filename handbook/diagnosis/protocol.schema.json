@@ -141,7 +141,8 @@
         "owner": { "type": "string", "minLength": 1 },
         "decision_date": { "type": "string", "format": "date" },
         "success_signal": { "type": "string" },
-        "dependencies": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+        "dependencies": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "guardrails": { "type": "array", "items": { "type": "string", "minLength": 1 } }
       }
     },
     "experiment": {

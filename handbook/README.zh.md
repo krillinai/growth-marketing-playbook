@@ -10,6 +10,8 @@
 
 用于识别核心增长约束、评估证据、选择 30 天行动并确定正确执行路径的可重复方法。
 
+[诊断问题](diagnosis/questions.zh.md) · [输出模板](diagnosis/output-template.zh.md) · [示例](diagnosis/examples/README.zh.md)
+
 ### [GEO：生成式引擎优化](geo/README.zh.md)
 
 关于 AI 搜索机制、内容优化、品牌权威、技术实施和效果分析的完整指南。
