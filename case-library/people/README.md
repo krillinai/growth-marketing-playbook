@@ -22,6 +22,7 @@ This section documents growth practitioners, their experience, methods, represen
 | Lauryn Isford | Head of Growth at Airtable | Onboarding, activation, segmentation, collaboration metrics, and PLG funnels | [Profile](lauryn-isford/README.md) |
 | Karim Atiyeh | Ramp co-founder and CTO; former Paribus co-founder | B2B UX, technical builders, differentiation, hiring, and speed | [Profile](karim-atiyeh/README.md) |
 | Luis von Ahn | Duolingo co-founder and CEO; creator of CAPTCHA and co-creator of reCAPTCHA | Education access, freemium, motivation, gamification, brand, culture, and AI | [Profile](luis-von-ahn/README.md) |
+| Morgan Brown | Growth and product leadership across Shopify, Facebook Messenger, and Dropbox; co-author of Hacking Growth | Growth systems, experimentation, e-commerce, acquisition and retention, AI products, and product leadership | [Profile](morgan-brown/README.md) |
 | Naomi Gleit | Meta Head of Product; early Facebook growth product manager | Activation, retention, onboarding, instrumentation, experimentation, product leadership | [Profile](naomi-gleit/README.md) |
 | Sean Ellis | Early growth leader at LogMeIn, Dropbox, Eventbrite, and Lookout; GrowthHackers founder | PMF Test, activation, North Star Metrics, ICE, high-tempo experimentation | [Profile](sean-ellis/README.md) |
 | Sri Batchu | Growth leadership at Ramp; former Instacart and Opendoor operator | Growth engineering, metrics, payback, experimentation, and team design | [Profile](sri-batchu/README.md) |

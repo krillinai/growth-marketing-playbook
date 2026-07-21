@@ -11,7 +11,9 @@
 | Airtable | 客户驱动营销、模板、新用户引导、激活与协作采用 | 引导改版、激活指标与协作信号 | [公司页面](airtable/README.zh.md) |
 | 字节跳动 | 增长中台、LTV、投放自动化、素材系统、风控、国际化与激励 | 基础设施、国际化、红包、裂变与极速版 | [公司页面](bytedance/README.zh.md) |
 | Duolingo | 自然增长、国际化、订阅、实验、留存与游戏化 | 订阅系统、留存、召回、游戏化与 Streak | [公司页面](duolingo/README.zh.md) |
+| Dropbox | 推荐增长、PLG、扩展、AI 搜索、评估与产品领导 | 早期推荐循环、产品驱动获客与 Dropbox Dash | [公司页面](dropbox/README.zh.md) |
 | Facebook / Meta | 社交产品、早期用户增长、激活、留存、国际化与实验 | 核心价值、激活、留存、数据、组织与扩张 | [公司页面](facebook/README.zh.md) |
 | Lovable | AI 产品增长、信任、自然分发、产品发布与商业化 | 信任、自然分发、发布、AI 商业化与 PMF | [公司页面](lovable/README.zh.md) |
 | Ramp | 客户节省、B2B UX、产品速度、增长衡量、品牌与 AI 运营 | 衡量、产品速度与 AI Agent 营销运营 | [公司页面](ramp/README.zh.md) |
+| Shopify | 商家增长、电商、获客与留存、内容、社区和实验 | 商家旅程、内容与社区、增长系统执行 | [公司页面](shopify/README.zh.md) |
 | Uber | Marketplace 流动性、司机供给、乘客需求、激励、本地运营与网络效应 | 供给增长、Atomic Network、流动性指标与激励边界 | [公司页面](uber/README.zh.md) |

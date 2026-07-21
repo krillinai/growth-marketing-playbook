@@ -15,16 +15,18 @@
 | [Airtable](../../companies/airtable/README.zh.md) | 连接激活与下游护栏的新用户引导实验。 |
 | [Facebook / Meta](../../companies/facebook/README.zh.md) | 埋点、Cohort、学习速度与跨职能实验。 |
 | [Lovable](../../companies/lovable/README.zh.md) | 警惕在低影响界面上追求高实验量。 |
+| [Dropbox](../../companies/dropbox/README.zh.md) | AI 结果评估、客户结果，以及区分发布活动与可衡量进展。 |
 
 ## 对比与迁移
 
-Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调整留存机制；Airtable 把引导实验连接到下游质量；Facebook 依赖埋点和跨职能执行；Lovable 警惕实验速度掩盖更大的产品约束。
+Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调整留存机制；Airtable 把引导实验连接到下游质量；Facebook 依赖埋点和跨职能执行；Lovable 警惕实验速度掩盖更大的产品约束；Dropbox 需要用评估系统区分 AI 产品进展与发布活动。
 
 应该迁移决策纪律，而不是实验数量。需要检查统计功效、埋点、产品风险、实施责任，以及测试界面是否足以实质改变结果。
 
 ## 相关人物
 
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：假设驱动的病毒实验、Growth Machine 与学习系统。
+- [Morgan Brown](../../people/morgan-brown/README.zh.md)：约束驱动的假设、科学学习与 AI 产品评估。
 
 
 ## 证据与局限

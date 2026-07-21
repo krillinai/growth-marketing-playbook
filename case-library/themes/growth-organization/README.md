@@ -14,6 +14,8 @@ For organization models, decision rights, and diagnosis, see [Growth Organizatio
 | [ByteDance](../../companies/bytedance/README.md) | UG as a shared platform with local execution, automation, and risk separation. |
 | [Facebook / Meta](../../companies/facebook/README.md) | Cross-functional growth teams, instrumentation, product access, and shared retention goals. |
 | [Lovable](../../companies/lovable/README.md) | Employee participation in distribution and close connection between building and communication. |
+| [Shopify](../../companies/shopify/README.md) | Product and marketing coordination around merchant constraints, content, community, acquisition, and retention. |
+| [Dropbox](../../companies/dropbox/README.md) | Customer obsession, explicit evaluation criteria, and alignment that supports rather than replaces decisions. |
 
 ## Comparison and Transfer
 
@@ -24,6 +26,7 @@ Before transfer, identify the current constraint, accountable outcome, required 
 ## Related People
 
 - [Brian Balfour](../../people/brian-balfour/README.md): multi-dimensional growth expertise, constraint ownership, and the growth machine.
+- [Morgan Brown](../../people/morgan-brown/README.md): product-marketing integration, constraint ownership, and customer-led AI product work.
 
 
 ## Evidence and Limits

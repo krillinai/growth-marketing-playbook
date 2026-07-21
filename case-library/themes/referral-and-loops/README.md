@@ -15,6 +15,7 @@ For loop models, metrics, and diagnosis, see [Referral & Growth Loops](../../../
 | [ByteDance](../../companies/bytedance/README.md) | Referral rewards, portfolio cross-promotion | New or reactivated users across products | Incentives require incrementality, anti-abuse, and cannibalization controls |
 | [Lovable](../../companies/lovable/README.md) | Product demonstrations, employees, customers, launches | Visible proof that attracts more builders and outputs | Public attention and employee reach may not repeat or transfer |
 | [Uber](../../companies/uber/README.md) | Local supply availability and rider demand | Better liquidity can reinforce cross-side participation | Quality, economics, regulation, and multi-homing can weaken the loop |
+| [Dropbox](../../companies/dropbox/README.md) | Useful storage, collaboration, and value-aligned referral capacity | New users receive product capacity and can enter the product loop | Reward economics and signup volume must be validated against retained use |
 
 ## Comparison
 
@@ -41,6 +42,7 @@ UGC appears inside several loops, but creator-system evidence remains too thin f
 
 - [Andrew Chen](../../people/andrew-chen/README.md): atomic networks, hard sides, network-effects stages, and marketplace loops.
 - [Brian Balfour](../../people/brian-balfour/README.md): loops as operating models and funnels as transition diagnostics.
+- [Morgan Brown](../../people/morgan-brown/README.md): growth systems connecting product value, distribution, retention, and experimentation.
 
 
 ## Evidence and Limits

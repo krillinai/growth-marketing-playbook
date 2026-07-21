@@ -14,11 +14,12 @@ For acquisition models, metrics, incrementality, and diagnosis, see the Handbook
 | [Facebook / Meta](../../companies/facebook/README.md) | Early network expansion | Campus sequencing, internationalization, removal of expansion barriers | Local network density and retained social use | Network topology and historical campus context are product-specific |
 | [Lovable](../../companies/lovable/README.md) | Fast-moving AI product with strong public interest | Trust, employee participation, launches, customer proof, earned distribution | Product adoption and retained demand beyond launch attention | Founder and employee reach cannot be assumed or manufactured |
 | [Ramp](../../companies/ramp/README.md) | B2B finance with multiple buyers and high trust requirements | Brand, product differentiation, events, content, growth engineering | Qualified pipeline, activation, sales quality, payback | Sales cycles and finance-category trust differ from self-serve products |
+| [Shopify](../../companies/shopify/README.md) | Merchant platform serving varied business stages | Content, community, product value, and constraint-led channel choice | Merchant quality, retained use, and acquisition-retention balance | Merchant segments, ecosystems, and commerce cycles change channel behavior |
 | [Uber](../../companies/uber/README.md) | Local two-sided marketplace | Driver supply, rider demand, incentives, and city operations | Liquidity, successful trips, cross-side retention, and economics | Labor, regulation, capital intensity, and geography constrain transfer |
 
 ## Shared Pattern
 
-All four cases connect distribution to a product-specific quality signal. They differ in how demand is reached: automated paid systems, geographic sequencing, earned social proof, or B2B brand and sales support. None supports treating channel-reported conversions as the final outcome.
+The cases connect distribution to product-specific quality signals. They differ across automated paid systems, geographic sequencing, content and community, earned social proof, marketplace operations, and B2B brand and sales support. None supports treating channel-reported conversions as the final outcome.
 
 ## Material Differences
 
@@ -48,6 +49,7 @@ SEO, partnerships, and community still lack enough direct evidence for standalon
 
 - [Andrew Chen](../../people/andrew-chen/README.md): hard-side supply, atomic networks, and marketplace density.
 - [Brian Balfour](../../people/brian-balfour/README.md): Product-Channel Fit, channel-model constraints, and growth models.
+- [Morgan Brown](../../people/morgan-brown/README.md): content and community, constraint-led channel choice, and acquisition-retention balance.
 
 
 ## Evidence and Limits

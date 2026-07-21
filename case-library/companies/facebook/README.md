@@ -26,6 +26,7 @@ Facebook is one of the most influential examples of product-led consumer growth.
 | Chamath Palihapitiya | Growth-team mission, core product value, Aha Moments, and focus | [Profile](../../people/chamath-palihapitiya/README.md) |
 | Alex Schultz | Retention, North Star Metrics, Magic Moments, marginal users, and internationalization | [Profile](../../people/alex-schultz/README.md) |
 | Naomi Gleit | Activation, growth accounting, onboarding, instrumentation, and execution | [Profile](../../people/naomi-gleit/README.md) |
+| Morgan Brown | Messenger product leadership, product-marketing integration, and growth systems | [Profile](../../people/morgan-brown/README.md) |
 
 ## Editorial Boundaries
 

@@ -22,6 +22,7 @@
 | Lauryn Isford | Airtable Head of Growth | 新用户引导、激活、分群、协作指标与 PLG 漏斗 | [查看](lauryn-isford/README.zh.md) |
 | Karim Atiyeh | Ramp 联合创始人兼 CTO；Paribus 前联合创始人 | B2B UX、技术建设者、差异化、招聘与速度 | [查看](karim-atiyeh/README.zh.md) |
 | Luis von Ahn | Duolingo 联合创始人兼 CEO；CAPTCHA 发明者、reCAPTCHA 共同发明者 | 教育普惠、Freemium、动机、游戏化、品牌、文化与 AI | [查看](luis-von-ahn/README.zh.md) |
+| Morgan Brown | 曾参与 Shopify、Facebook Messenger 与 Dropbox 的增长和产品；Hacking Growth 共同作者 | 增长系统、实验、电商、获客与留存、AI 产品和产品领导 | [查看](morgan-brown/README.zh.md) |
 | Naomi Gleit | Meta Head of Product；Facebook 早期增长产品经理 | 激活、留存、新用户引导、数据埋点、实验与产品领导 | [查看](naomi-gleit/README.zh.md) |
 | Sean Ellis | 曾参与 LogMeIn、Dropbox、Eventbrite 与 Lookout 早期增长；GrowthHackers 创始人 | PMF Test、激活、北极星指标、ICE 与高频实验 | [查看](sean-ellis/README.zh.md) |
 | Sri Batchu | Ramp 增长负责人；曾参与 Instacart 与 Opendoor | 增长工程、指标、回本周期、实验与团队设计 | [查看](sri-batchu/README.zh.md) |

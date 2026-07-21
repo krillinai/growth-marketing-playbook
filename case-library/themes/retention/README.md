@@ -13,10 +13,12 @@ For retention models, cohort metrics, and diagnosis, see [Retention](../../../ha
 | [Duolingo](../../companies/duolingo/README.md) | Continued language-learning progress | Streaks, recovery, notifications, identity | Learning activity and resurrection; mechanics cannot replace learning value |
 | [Facebook / Meta](../../companies/facebook/README.md) | Repeated relevant social connection | Denser network and recurring social content | Cohort retention and growth accounting; historical network effects limit transfer |
 | [Airtable](../../companies/airtable/README.md) | Useful workflows that remain part of work | Artifacts, collaborators, repeated team use | Later collaboration and workspace behavior; usage frequency varies by workflow |
+| [Shopify](../../companies/shopify/README.md) | Repeated merchant success and continued platform value | Product capability, education, community, and lifecycle support | Retained merchant use and business outcomes; acquisition volume alone is insufficient |
+| [Dropbox](../../companies/dropbox/README.md) | File utility, collaborative work, and AI-assisted knowledge access | Stored value, collaboration, expansion, and repeated successful retrieval | Cohort use and task quality; AI feature shipment does not establish retention |
 
 ## Comparison
 
-Duolingo reinforces an individual habit, Facebook compounds network value, and Airtable embeds a workflow in team operations. The visible mechanics therefore differ, but each case connects return behavior to a recurring value source rather than reminders alone.
+Duolingo reinforces an individual habit, Facebook compounds network value, Airtable embeds workflows in team operations, Shopify depends on continued merchant success, and Dropbox combines stored utility, collaboration, and successful retrieval. The visible mechanics differ, but each case connects return behavior to recurring value rather than reminders alone.
 
 ## Transfer Questions
 
@@ -38,6 +40,7 @@ Direct email-program evidence remains too thin for a standalone chapter.
 ## Related People
 
 - [Brian Balfour](../../people/brian-balfour/README.md): cohort retention as the foundation of growth models and continuing PMF.
+- [Morgan Brown](../../people/morgan-brown/README.md): acquisition-retention balance and recurring customer value across commerce and AI products.
 
 
 ## Evidence and Limits
