@@ -85,7 +85,7 @@ The **Foundations** define how growth is understood, the **Growth Journey** show
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **Tools** | Growth and marketing tools organized by job, stage, and use case | ○ Tool directory |
-| **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | ○ [krillinai/growth-skills](https://github.com/krillinai/growth-skills) · Companion repository created; content in progress |
+| **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [krillinai/growth-skills](https://github.com/krillinai/growth-skills) |
 | **Workflows** | Repeatable combinations of handbook methods, tools, and Skills | ○ Workflow index |
 
 See the [Roadmap](ROADMAP.md) for how this structure will grow as complete material is added.
