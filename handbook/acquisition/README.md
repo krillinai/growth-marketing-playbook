@@ -122,4 +122,4 @@ Move toward scale only after the customer, value, channel-model fit, and margina
 
 ## Case Comparison
 
-See [Acquisition: Cross-Company Cases](../../case-library/themes/acquisition/README.md).
+See [Acquisition](../../case-library/themes/acquisition/README.md).

@@ -41,4 +41,4 @@
 
 ## 案例对比
 
-参见[增长基础设施：跨公司案例](../../case-library/themes/growth-infrastructure/README.zh.md)。
+参见[增长基础设施](../../case-library/themes/growth-infrastructure/README.zh.md)。

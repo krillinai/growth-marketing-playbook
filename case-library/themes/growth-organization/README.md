@@ -1,4 +1,4 @@
-# Growth Organization: Cross-Company Cases
+# Growth Organization
 
 > Growth organization defines ownership, decision rights, cross-functional access, and learning systems around growth constraints. The goal is not one universal org chart but coordinated accountability for customer value.
 

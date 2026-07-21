@@ -122,4 +122,4 @@
 
 ## 案例对比
 
-参见[获客：跨公司案例](../../case-library/themes/acquisition/README.zh.md)。
+参见[获客](../../case-library/themes/acquisition/README.zh.md)。

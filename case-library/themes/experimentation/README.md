@@ -1,4 +1,4 @@
-# Experimentation: Cross-Company Cases
+# Experimentation
 
 > Experimentation is a decision system for reducing important uncertainty. Test volume matters only when hypotheses address meaningful constraints, results are interpretable, and learning changes subsequent action.
 

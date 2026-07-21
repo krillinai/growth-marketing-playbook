@@ -1,4 +1,4 @@
-# Referral & Growth Loops: Cross-Company Cases
+# Referral & Growth Loops
 
 > Referrals and growth loops turn product value or user activity into additional distribution, content, data, or value. A loop must close and produce retained quality, not only invitations.
 

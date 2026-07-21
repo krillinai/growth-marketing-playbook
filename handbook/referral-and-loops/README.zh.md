@@ -78,4 +78,4 @@
 
 ## 案例对比
 
-参见[推荐与增长循环：跨公司案例](../../case-library/themes/referral-and-loops/README.zh.md)。
+参见[推荐与增长循环](../../case-library/themes/referral-and-loops/README.zh.md)。

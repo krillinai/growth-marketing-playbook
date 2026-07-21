@@ -165,9 +165,9 @@ Possible ownership models range from Growth-as-a-Service, where a team moves bet
 - [Monetization](../../../handbook/monetization/README.md)
 - [Referral & Growth Loops](../../../handbook/referral-and-loops/README.md)
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
-- [Referral & Growth Loops: Cross-Company Cases](../../themes/referral-and-loops/README.md)
-- [Metrics & Measurement: Cross-Company Cases](../../themes/metrics-and-measurement/README.md)
-- [Growth Organization: Cross-Company Cases](../../themes/growth-organization/README.md)
+- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
+- [Growth Organization](../../themes/growth-organization/README.md)
 - [Airbnb](../../companies/airbnb/README.md)
 
 ## Article Index

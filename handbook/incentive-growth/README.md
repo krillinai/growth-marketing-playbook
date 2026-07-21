@@ -53,4 +53,4 @@ Rewards can be cash, credit, coupons, access, status, progress protection, conve
 
 ## Case Comparison
 
-See [Incentive Growth: Cross-Company Cases](../../case-library/themes/incentive-growth/README.md).
+See [Incentive Growth](../../case-library/themes/incentive-growth/README.md).

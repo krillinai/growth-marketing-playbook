@@ -1,4 +1,4 @@
-# Metrics & Measurement: Cross-Company Cases
+# Metrics & Measurement
 
 > Metrics connect delivered customer value, observable behavior, and business economics. A useful system separates outcomes, drivers, guardrails, and diagnostic dimensions rather than searching for one perfect number.
 

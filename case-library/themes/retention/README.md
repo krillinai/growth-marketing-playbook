@@ -1,4 +1,4 @@
-# Retention: Cross-Company Cases
+# Retention
 
 > Retention measures whether users continue receiving value over the product's natural usage cycle. It distinguishes continuously retained, resurrected, expanded, and churned behavior.
 

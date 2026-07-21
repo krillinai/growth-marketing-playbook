@@ -1,4 +1,4 @@
-# Acquisition: Cross-Company Cases
+# Acquisition
 
 > Acquisition is the system for reaching people or accounts likely to receive durable product value. It includes earned, paid, product-led, partner, and portfolio distribution without treating raw traffic as success.
 

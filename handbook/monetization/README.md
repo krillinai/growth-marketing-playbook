@@ -81,4 +81,4 @@ Profitable growth means incremental cohorts produce durable contribution after a
 
 ## Case Comparison
 
-See [Monetization: Cross-Company Cases](../../case-library/themes/monetization/README.md).
+See [Monetization](../../case-library/themes/monetization/README.md).

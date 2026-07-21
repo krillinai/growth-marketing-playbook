@@ -47,4 +47,4 @@ Define population, treatment, primary outcome, guardrails, minimum meaningful ef
 
 ## Case Comparison
 
-See [Experimentation: Cross-Company Cases](../../case-library/themes/experimentation/README.md).
+See [Experimentation](../../case-library/themes/experimentation/README.md).

@@ -76,4 +76,4 @@
 
 ## 案例对比
 
-参见[增长组织：跨公司案例](../../case-library/themes/growth-organization/README.zh.md)。
+参见[增长组织](../../case-library/themes/growth-organization/README.zh.md)。

@@ -104,4 +104,4 @@ Here, `X` is participation in a sharing action, `Y` is recipients per action, an
 
 ## Case Comparison
 
-See [Retention: Cross-Company Cases](../../case-library/themes/retention/README.md).
+See [Retention](../../case-library/themes/retention/README.md).

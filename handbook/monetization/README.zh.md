@@ -81,4 +81,4 @@
 
 ## 案例对比
 
-参见[商业化：跨公司案例](../../case-library/themes/monetization/README.zh.md)。
+参见[商业化](../../case-library/themes/monetization/README.zh.md)。

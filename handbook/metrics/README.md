@@ -276,4 +276,4 @@ Every weekly review should answer:
 
 ## Case Comparison
 
-See how Ramp, Facebook / Meta, Airtable, and ByteDance apply measurement systems in [Metrics & Measurement: Cross-Company Cases](../../case-library/themes/metrics-and-measurement/README.md).
+See how Ramp, Facebook / Meta, Airtable, and ByteDance apply measurement systems in [Metrics & Measurement](../../case-library/themes/metrics-and-measurement/README.md).

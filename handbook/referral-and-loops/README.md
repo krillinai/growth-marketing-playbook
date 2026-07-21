@@ -78,4 +78,4 @@ Measure qualified downstream behavior and trust, not testimonial volume alone.
 
 ## Case Comparison
 
-See [Referral & Growth Loops: Cross-Company Cases](../../case-library/themes/referral-and-loops/README.md).
+See [Referral & Growth Loops](../../case-library/themes/referral-and-loops/README.md).

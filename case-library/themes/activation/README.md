@@ -1,4 +1,4 @@
-# Activation: Cross-Company Cases
+# Activation
 
 > Airtable, Facebook / Meta, and Sean Ellis approach activation from different product contexts, but each treats it as evidence of customer value rather than completion of an interface.
 

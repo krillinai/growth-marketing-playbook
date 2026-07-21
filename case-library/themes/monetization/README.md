@@ -1,4 +1,4 @@
-# Monetization: Cross-Company Cases
+# Monetization
 
 > Monetization defines who pays, for which value, through which model, and with what economics. Revenue is an outcome of value, pricing, usage, retention, and cost.
 

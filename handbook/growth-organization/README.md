@@ -76,4 +76,4 @@ Maintain a mix of low-effort learning and larger structural bets. Measure whethe
 
 ## Case Comparison
 
-See [Growth Organization: Cross-Company Cases](../../case-library/themes/growth-organization/README.md).
+See [Growth Organization](../../case-library/themes/growth-organization/README.md).

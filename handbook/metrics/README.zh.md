@@ -276,4 +276,4 @@ Fully Loaded CAC 应定义客户，按照转化延迟匹配投入，区分新增
 
 ## 案例对比
 
-参见 Ramp、Facebook / Meta、Airtable 与字节跳动的[指标与衡量：跨公司案例](../../case-library/themes/metrics-and-measurement/README.zh.md)。
+参见 Ramp、Facebook / Meta、Airtable 与字节跳动的[指标与衡量](../../case-library/themes/metrics-and-measurement/README.zh.md)。

@@ -41,4 +41,4 @@ Centralize when multiple teams repeat the same problem, inputs and outputs are s
 
 ## Case Comparison
 
-See [Growth Infrastructure: Cross-Company Cases](../../case-library/themes/growth-infrastructure/README.md).
+See [Growth Infrastructure](../../case-library/themes/growth-infrastructure/README.md).

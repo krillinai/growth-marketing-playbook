@@ -53,4 +53,4 @@
 
 ## 案例对比
 
-参见[激励增长：跨公司案例](../../case-library/themes/incentive-growth/README.zh.md)。
+参见[激励增长](../../case-library/themes/incentive-growth/README.zh.md)。

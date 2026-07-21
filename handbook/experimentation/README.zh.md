@@ -47,4 +47,4 @@
 
 ## 案例对比
 
-参见[实验系统：跨公司案例](../../case-library/themes/experimentation/README.zh.md)。
+参见[实验系统](../../case-library/themes/experimentation/README.zh.md)。

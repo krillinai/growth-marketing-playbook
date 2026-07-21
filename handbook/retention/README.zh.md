@@ -104,4 +104,4 @@
 
 ## 案例对比
 
-参见[留存：跨公司案例](../../case-library/themes/retention/README.zh.md)。
+参见[留存](../../case-library/themes/retention/README.zh.md)。

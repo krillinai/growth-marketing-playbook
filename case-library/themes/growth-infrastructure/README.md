@@ -1,4 +1,4 @@
-# Growth Infrastructure: Cross-Company Cases
+# Growth Infrastructure
 
 > Growth infrastructure turns repeated measurement, delivery, lifecycle, creative, and decision work into reusable systems. Centralization is useful only when products share stable problems and local teams retain necessary context.
 

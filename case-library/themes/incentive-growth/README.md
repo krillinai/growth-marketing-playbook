@@ -1,4 +1,4 @@
-# Incentive Growth: Cross-Company Cases
+# Incentive Growth
 
 > Incentive growth uses cash, coins, coupons, recovery, status, or access to change behavior. Incentives are useful when they reinforce product value and create retained incrementality after cost, fraud, and cannibalization.
 
