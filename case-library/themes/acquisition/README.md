@@ -38,9 +38,9 @@ All four cases connect distribution to a product-specific quality signal. They d
 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
-| Paid acquisition | ByteDance; Ramp | LTV and ROI horizons, automation, creative systems, payback, and marginal economics |
-| Content | Ramp; Lovable | Category education, product proof, brand differentiation, and demand creation |
-| Social distribution | Lovable; Duolingo brand evidence | Employee and customer participation, launches, identity, and earned reach |
+| [Paid acquisition](../../../handbook/acquisition/README.md#paid-acquisition) | ByteDance; Ramp | LTV and ROI horizons, automation, creative systems, payback, and marginal economics |
+| [Content](../../../handbook/acquisition/README.md#content-and-social-distribution) | Ramp; Lovable | Category education, product proof, brand differentiation, and demand creation |
+| [Social distribution](../../../handbook/acquisition/README.md#content-and-social-distribution) | Lovable; Duolingo brand evidence | Employee and customer participation, launches, identity, and earned reach |
 
 SEO, partnerships, and community still lack enough direct evidence for standalone chapters.
 

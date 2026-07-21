@@ -122,9 +122,9 @@ Before applying an approach, answer:
 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
-| Funnels | Airtable; Sean Ellis; Brian Balfour | End-to-end value paths, step diagnosis, and funnels inside loops |
-| Onboarding | Airtable; Facebook / Meta; Naomi Gleit; Lauryn Isford | Intent segmentation, templates, connections, instrumentation, and downstream validation |
-| CRO | Airtable experiments; Sean Ellis value path | Improve a constrained transition while protecting retained activation and quality |
+| [Funnels](../../../handbook/activation/README.md#funnels) | Airtable; Sean Ellis; Brian Balfour | End-to-end value paths, step diagnosis, and funnels inside loops |
+| [Onboarding](../../../handbook/activation/README.md#onboarding) | Airtable; Facebook / Meta; Naomi Gleit; Lauryn Isford | Intent segmentation, templates, connections, instrumentation, and downstream validation |
+| [CRO](../../../handbook/activation/README.md#conversion-rate-optimization) | Airtable experiments; Sean Ellis value path | Improve a constrained transition while protecting retained activation and quality |
 
 Landing pages and offer design remain supporting tactics rather than standalone modules.
 

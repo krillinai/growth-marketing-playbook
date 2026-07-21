@@ -138,6 +138,8 @@
 
 ## 漏斗
 
+案例证据：[Airtable、Sean Ellis 与 Brian Balfour](../../case-library/themes/activation/README.zh.md#概念证据地图)。
+
 漏斗是符合条件的用户在明确状态之间移动的诊断模型。每一步都需要资格规则、事件、分母、窗口与决策负责人。
 
 ```text
@@ -148,11 +150,15 @@
 
 ## 新用户引导
 
+案例证据：[Airtable、Facebook / Meta、Naomi Gleit 与 Lauryn Isford](../../case-library/themes/activation/README.zh.md#概念证据地图)。
+
 Onboarding 应缩短用户意图与首次价值之间的距离。它可以使用模板、默认值、渐进设置、导入上下文、教育或人工协助，但完成引导不是结果。
 
 只有意图、角色、前置条件或价值路径实质变化时才分群，并通过激活质量和留存行为验证每条路径。
 
 ## 转化率优化
+
+案例证据：[Airtable 实验与 Sean Ellis 的价值路径](../../case-library/themes/activation/README.zh.md#概念证据地图)。
 
 CRO 改善明确转化步骤，但不能损害下游价值。先从约束和机制开始，而不是从表面变化开始。需要同时读取转化、留存激活、错误、支持、信任与经济性。
 

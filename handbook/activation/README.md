@@ -138,6 +138,8 @@ Keep separate activation definitions when customer jobs or value paths materiall
 
 ## Funnels
 
+Case evidence: [Airtable, Sean Ellis, and Brian Balfour](../../case-library/themes/activation/README.md#concept-evidence-map).
+
 A funnel is a diagnostic model of eligible users moving through defined states. Every step needs an eligibility rule, event, denominator, window, and decision owner.
 
 ```text
@@ -148,11 +150,15 @@ Report step conversion and end-to-end conversion together. A high intermediate c
 
 ## Onboarding
 
+Case evidence: [Airtable, Facebook / Meta, Naomi Gleit, and Lauryn Isford](../../case-library/themes/activation/README.md#concept-evidence-map).
+
 Onboarding should reduce the distance between user intent and first value. It can use templates, defaults, progressive setup, imported context, education, or human assistance, but completion is not the outcome.
 
 Segment onboarding only when intent, role, prerequisite, or value path materially changes. Validate each path through activation quality and retained behavior.
 
 ## Conversion Rate Optimization
+
+Case evidence: [Airtable experiments and Sean Ellis's value path](../../case-library/themes/activation/README.md#concept-evidence-map).
 
 CRO improves a defined transition without damaging downstream value. Start with the constraint and mechanism, not cosmetic variation. Read conversion with retained activation, errors, support, trust, and economics.
 

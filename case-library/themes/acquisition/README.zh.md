@@ -31,9 +31,9 @@
 
 | 概念 | 证据 | 支持的结论 |
 | --- | --- | --- |
-| 付费获客 | 字节跳动；Ramp | LTV 与 ROI 周期、自动化、素材、回本与边际经济性 |
-| 内容 | Ramp；Lovable | 品类教育、产品证明、品牌差异与需求创造 |
-| 社媒分发 | Lovable；Duolingo 品牌证据 | 员工和客户参与、发布、身份与自然触达 |
+| [付费获客](../../../handbook/acquisition/README.zh.md#付费获客) | 字节跳动；Ramp | LTV 与 ROI 周期、自动化、素材、回本与边际经济性 |
+| [内容](../../../handbook/acquisition/README.zh.md#内容与社媒分发) | Ramp；Lovable | 品类教育、产品证明、品牌差异与需求创造 |
+| [社媒分发](../../../handbook/acquisition/README.zh.md#内容与社媒分发) | Lovable；Duolingo 品牌证据 | 员工和客户参与、发布、身份与自然触达 |
 
 SEO、合作伙伴和社区仍缺少足够直接证据，不建立独立章节。
 

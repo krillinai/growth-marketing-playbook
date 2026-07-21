@@ -48,6 +48,8 @@ Segment by start cohort, activation path, source, intent, use case, account size
 
 ## Customer Lifecycle
 
+Case evidence: [Facebook growth accounting and Duolingo resurrection](../../case-library/themes/retention/README.md#concept-evidence-map).
+
 Lifecycle states should reflect changes in value and action, not arbitrary campaign labels:
 
 ```text
@@ -59,11 +61,15 @@ Define entry and exit events for every state. Users can move nonlinearly, and ac
 
 ## Lifecycle Marketing
 
+Case evidence: [Duolingo notifications and ByteDance incentives](../../case-library/themes/retention/README.md#concept-evidence-map).
+
 Lifecycle marketing uses messages, education, product surfaces, support, and offers to help users reach or recover value. Trigger contact from user state and likely need, not a fixed broadcast calendar.
 
 Measure incremental value events, retained behavior, and opt-out or complaint guardrails. Opens and clicks are delivery diagnostics, not the final outcome.
 
 ## Churn Prevention
+
+Case evidence: [Duolingo, Airtable, and Brian Balfour](../../case-library/themes/retention/README.md#concept-evidence-map).
 
 Separate voluntary churn, involuntary churn, inactivity, contraction, and switching. Diagnose whether the cause is missing value, product failure, price, changing need, payment failure, or organizational change.
 

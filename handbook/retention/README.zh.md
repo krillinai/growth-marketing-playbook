@@ -48,6 +48,8 @@
 
 ## 用户生命周期
 
+案例证据：[Facebook 增长核算与 Duolingo 召回](../../case-library/themes/retention/README.zh.md#概念证据地图)。
+
 生命周期状态应该反映价值与行动变化，而不是任意 Campaign 标签：
 
 ```text
@@ -59,11 +61,15 @@
 
 ## 生命周期营销
 
+案例证据：[Duolingo 通知与字节跳动激励](../../case-library/themes/retention/README.zh.md#概念证据地图)。
+
 生命周期营销使用消息、教育、产品界面、支持和 Offer 帮助用户到达或恢复价值。触达应由用户状态和可能需求触发，而不是固定群发日历。
 
 衡量增量价值事件、留存行为，以及退订或投诉护栏。打开和点击是交付诊断，不是最终结果。
 
 ## 流失预防
+
+案例证据：[Duolingo、Airtable 与 Brian Balfour](../../case-library/themes/retention/README.zh.md#概念证据地图)。
 
 区分主动流失、被动流失、不活跃、收缩与切换。诊断原因是价值不足、产品失败、价格、需求变化、支付失败还是组织变化。
 

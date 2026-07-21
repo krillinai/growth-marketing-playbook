@@ -46,9 +46,13 @@ Analyze conversion, discounting, downgrade, expansion, churn, cost-to-serve, and
 
 ## Pricing
 
+Case evidence: [Duolingo, Lovable, and Ramp](../../case-library/themes/monetization/README.md#concept-evidence-map).
+
 Pricing defines the value metric, package boundary, price level, discount rules, and path between plans. Evaluate willingness to pay with retained use, service cost, competitive alternatives, and buyer risk.
 
 ## Revenue Models
+
+Case evidence: [Ramp, Duolingo, Lovable, and ByteDance](../../case-library/themes/monetization/README.md#concept-evidence-map).
 
 | Model | Fits when | Main risk |
 | --- | --- | --- |
@@ -61,6 +65,8 @@ Pricing defines the value metric, package boundary, price level, discount rules,
 Choose based on value delivery and cost structure, not category fashion.
 
 ## Profitable Growth
+
+Case evidence: [Ramp, ByteDance, and Brian Balfour](../../case-library/themes/monetization/README.md#concept-evidence-map).
 
 Profitable growth means incremental cohorts produce durable contribution after acquisition, serving, support, incentives, refunds, and risk costs. Report marginal payback and mature cohort contribution, not revenue growth alone.
 

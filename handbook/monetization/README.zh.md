@@ -46,9 +46,13 @@
 
 ## 定价
 
+案例证据：[Duolingo、Lovable 与 Ramp](../../case-library/themes/monetization/README.zh.md#概念证据地图)。
+
 定价定义价值度量、套餐边界、价格水平、折扣规则与套餐迁移路径。支付意愿需要与留存使用、服务成本、竞争替代和购买风险一起评估。
 
 ## 收入模型
+
+案例证据：[Ramp、Duolingo、Lovable 与字节跳动](../../case-library/themes/monetization/README.zh.md#概念证据地图)。
 
 | 模型 | 适用条件 | 主要风险 |
 | --- | --- | --- |
@@ -61,6 +65,8 @@
 根据价值交付和成本结构选择，而不是追随品类流行。
 
 ## 盈利性增长
+
+案例证据：[Ramp、字节跳动与 Brian Balfour](../../case-library/themes/monetization/README.zh.md#概念证据地图)。
 
 盈利性增长意味着增量 Cohort 在获客、服务、支持、激励、退款与风险成本后仍产生持续贡献。需要报告边际回本与成熟 Cohort 贡献，而不是只看收入增长。
 

@@ -31,9 +31,9 @@ Facebook's loop is structurally networked, Duolingo makes progress and identity 
 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
-| Virality | Facebook; Brian Balfour; Sean Ellis | Propagation, recipient conversion, experiments, and retention-adjusted quality |
-| Product loops | Brian Balfour; Andrew Chen; Facebook; Uber; Lovable | Outputs create inputs through collaboration, networks, transactions, and proof |
-| Advocacy | Lovable; Duolingo; Ramp | Customer and employee proof, identity, brand trust, and downstream behavior |
+| [Virality](../../../handbook/referral-and-loops/README.md#virality) | Facebook; Brian Balfour; Sean Ellis | Propagation, recipient conversion, experiments, and retention-adjusted quality |
+| [Product loops](../../../handbook/referral-and-loops/README.md#product-loops) | Brian Balfour; Andrew Chen; Facebook; Uber; Lovable | Outputs create inputs through collaboration, networks, transactions, and proof |
+| [Advocacy](../../../handbook/referral-and-loops/README.md#advocacy) | Lovable; Duolingo; Ramp | Customer and employee proof, identity, brand trust, and downstream behavior |
 
 UGC appears inside several loops, but creator-system evidence remains too thin for a standalone chapter.
 

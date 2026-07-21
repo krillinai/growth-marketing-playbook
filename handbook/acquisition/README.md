@@ -53,6 +53,8 @@ Split by audience, intent, channel, creative or promise, geography, device, and 
 
 ## Paid Acquisition
 
+Case evidence: [ByteDance and Ramp acquisition systems](../../case-library/themes/acquisition/README.md#concept-evidence-map).
+
 Paid acquisition should be managed on marginal, incremental, retained economics rather than platform attribution. Connect audience, promise, creative, bid, landing path, activation, retention, and contribution margin in one cohort view.
 
 `incremental payback = incremental acquisition cost / periodic incremental contribution margin`
@@ -60,6 +62,8 @@ Paid acquisition should be managed on marginal, incremental, retained economics 
 Scale only while marginal quality and payback remain inside the decision boundary. Creative fatigue, audience saturation, attribution overlap, and delayed retention can make average historical performance misleading.
 
 ## Content and Social Distribution
+
+Case evidence: [Ramp, Lovable, and Duolingo-related distribution evidence](../../case-library/themes/acquisition/README.md#concept-evidence-map).
 
 Content creates demand by explaining a problem, demonstrating value, building trust, or producing an asset others distribute. Social distribution depends on participant credibility, native format, timing, conversation, and the path from attention to product value.
 

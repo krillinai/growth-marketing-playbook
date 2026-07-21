@@ -29,9 +29,9 @@ Duolingo reinforces an individual habit, Facebook compounds network value, and A
 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
-| Lifecycle | Facebook growth accounting; Duolingo resurrection | Separate new, retained, lapsed, resurrected, and churned behavior |
-| Lifecycle marketing | Duolingo notifications; ByteDance incentives | State-triggered contact with fatigue and incrementality guardrails |
-| Churn prevention | Duolingo recovery; Airtable collaboration; Brian Balfour | Diagnose recurring-value loss before relying on reminders or discounts |
+| [Lifecycle](../../../handbook/retention/README.md#customer-lifecycle) | Facebook growth accounting; Duolingo resurrection | Separate new, retained, lapsed, resurrected, and churned behavior |
+| [Lifecycle marketing](../../../handbook/retention/README.md#lifecycle-marketing) | Duolingo notifications; ByteDance incentives | State-triggered contact with fatigue and incrementality guardrails |
+| [Churn prevention](../../../handbook/retention/README.md#churn-prevention) | Duolingo recovery; Airtable collaboration; Brian Balfour | Diagnose recurring-value loss before relying on reminders or discounts |
 
 Direct email-program evidence remains too thin for a standalone chapter.
 

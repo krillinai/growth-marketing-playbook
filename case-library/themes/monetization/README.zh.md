@@ -23,9 +23,9 @@ Ramp 强调可衡量企业节省，Duolingo 平衡可及性与订阅价值，Lov
 
 | 概念 | 证据 | 支持的结论 |
 | --- | --- | --- |
-| 定价 | Duolingo；Lovable；Ramp | Freemium 边界、AI 用量经济性、支付意愿、信任与价值对齐 |
-| 收入模型 | Ramp；Duolingo；Lovable；字节跳动 | B2B 激励、订阅与广告、AI 套餐与产品矩阵经济性 |
-| 盈利性增长 | Ramp；字节跳动；Brian Balfour | 贡献、回本、LTV 敏感性、留存经济性与下行周期纪律 |
+| [定价](../../../handbook/monetization/README.zh.md#定价) | Duolingo；Lovable；Ramp | Freemium 边界、AI 用量经济性、支付意愿、信任与价值对齐 |
+| [收入模型](../../../handbook/monetization/README.zh.md#收入模型) | Ramp；Duolingo；Lovable；字节跳动 | B2B 激励、订阅与广告、AI 套餐与产品矩阵经济性 |
+| [盈利性增长](../../../handbook/monetization/README.zh.md#盈利性增长) | Ramp；字节跳动；Brian Balfour | 贡献、回本、LTV 敏感性、留存经济性与下行周期纪律 |
 
 直接 Upsell 证据仍不足以建立独立章节。
 
