@@ -9,6 +9,7 @@ This section documents growth practitioners, their experience, methods, represen
 | Person | Representative experience | Main themes | Page |
 | --- | --- | --- | --- |
 | Alex Schultz | Meta's first Chief Data Officer; former CMO and VP of Analytics | Retention, Magic Moments, growth accounting, North Star Metrics, data, experimentation | [Profile](alex-schultz/README.md) |
+| April Dunford | Positioning consultant; Ambient Strategy founder; author of *Obviously Awesome* and *Sales Pitch* | Positioning, differentiated value, market categories, sales narratives, qualification, and product portfolios | [Profile](april-dunford/README.md) |
 | Albert Cheng | Growth work across Duolingo, Grammarly, and Chess.com | Explore-exploit, monetization, retention, experimentation, and gamification | [Profile](albert-cheng/README.md) |
 | Andrew Chen | Andreessen Horowitz General Partner; former Uber Rider Growth leader | Network effects, marketplaces, atomic networks, supply growth, and growth loops | [Profile](andrew-chen/README.md) |
 | Brian Balfour | Reforge founder and CEO; former HubSpot VP of Growth | Growth models, Four Fits, retention, distribution, loops, experimentation, and PLG | [Profile](brian-balfour/README.md) |

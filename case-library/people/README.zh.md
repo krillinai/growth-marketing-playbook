@@ -9,6 +9,7 @@
 | 人物 | 代表经历 | 主要主题 | 页面 |
 | --- | --- | --- | --- |
 | Alex Schultz | Meta 首任 Chief Data Officer；前 CMO 和 VP of Analytics | 留存、Magic Moment、增长会计、北极星指标、数据与实验 | [查看](alex-schultz/README.zh.md) |
+| April Dunford | 定位顾问；Ambient Strategy 创始人；*Obviously Awesome* 与 *Sales Pitch* 作者 | 定位、差异化价值、市场品类、销售叙事、客户资格与产品组合 | [查看](april-dunford/README.zh.md) |
 | Albert Cheng | 曾参与 Duolingo、Grammarly 与 Chess.com 增长 | Explore-Exploit、商业化、留存、实验与游戏化 | [查看](albert-cheng/README.zh.md) |
 | Andrew Chen | Andreessen Horowitz General Partner；Uber 前 Rider Growth 负责人 | 网络效应、Marketplace、Atomic Network、供给增长与增长循环 | [查看](andrew-chen/README.zh.md) |
 | Brian Balfour | Reforge 创始人兼 CEO；HubSpot 前 VP of Growth | 增长模型、Four Fits、留存、分发、循环、实验与 PLG | [查看](brian-balfour/README.zh.md) |

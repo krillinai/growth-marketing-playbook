@@ -24,6 +24,10 @@
 
 覆盖分群价值、留存、Four Fits、证据冲突与持续重新验证。
 
+### [定位](positioning/README.zh.md)
+
+覆盖竞争替代方案、差异化价值、最佳客户、市场品类、销售叙事、客户资格与执行证据。
+
 ### [激活](activation/README.zh.md)
 
 覆盖首次价值定义、激活指标树、摩擦诊断、Setup-Aha-Habit，以及通过留存验证激活的方法。
@@ -65,7 +69,7 @@
 | 分类 | 已发布概念 |
 | --- | --- |
 | 增长诊断 | [Context、Outcome、Constraint、Evidence、Action 与 Execution](diagnosis/README.zh.md#六层诊断结构) · [获客](diagnosis/README.zh.md#获客诊断) · [激活](diagnosis/README.zh.md#激活诊断) · [留存](diagnosis/README.zh.md#留存诊断) · [商业化](diagnosis/README.zh.md#商业化诊断) · [增长循环](diagnosis/README.zh.md#增长循环诊断) · [增长系统](diagnosis/README.zh.md#增长系统诊断) |
-| 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) · [Model-Market Fit](product-market-fit/README.zh.md#model-market-fit) · [指标星座](metrics/README.zh.md#指标星座) |
+| 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) · [定位](positioning/README.zh.md) · [Model-Market Fit](product-market-fit/README.zh.md#model-market-fit) · [指标星座](metrics/README.zh.md#指标星座) |
 | 获客 | [渠道选择矩阵](acquisition/README.zh.md#渠道选择矩阵) · [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [Kindle 与 Fire](acquisition/README.zh.md#kindle-与-fire-策略) |
 | 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |

@@ -24,6 +24,10 @@ A framework for North Star Metrics, business and funnel metrics, guardrails, and
 
 Segment-specific value, retention, Four Fits, evidence conflicts, and repeated revalidation.
 
+### [Positioning](positioning/README.md)
+
+Competitive alternatives, differentiated value, best-fit customers, market categories, sales narratives, qualification, and execution evidence.
+
 ### [Activation](activation/README.md)
 
 A framework for defining first value, building an activation metric tree, diagnosing friction, connecting Setup, Aha, and Habit, and validating activation against retention.
@@ -65,7 +69,7 @@ Outcome ownership, decision rights, cross-functional capabilities, and learning 
 | Area | Published concepts |
 | --- | --- |
 | Diagnosis | [Context, outcome, constraint, evidence, action, and execution](diagnosis/README.md#the-six-diagnostic-layers) · [Acquisition](diagnosis/README.md#acquisition-diagnosis) · [Activation](diagnosis/README.md#activation-diagnosis) · [Retention](diagnosis/README.md#retention-diagnosis) · [Monetization](diagnosis/README.md#monetization-diagnosis) · [Growth Loops](diagnosis/README.md#growth-loops-diagnosis) · [Growth System](diagnosis/README.md#growth-system-diagnosis) |
-| Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) · [Model-Market Fit](product-market-fit/README.md#model-market-fit) · [Metric Constellation](metrics/README.md#metric-constellation) |
+| Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Model-Market Fit](product-market-fit/README.md#model-market-fit) · [Metric Constellation](metrics/README.md#metric-constellation) |
 | Acquisition | [Channel Selection Matrix](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [Kindle and Fire](acquisition/README.md#kindle-and-fire-strategies) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
