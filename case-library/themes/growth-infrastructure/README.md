@@ -10,13 +10,14 @@ For platform boundaries, governance, and operating metrics, see [Growth Infrastr
 
 | Company | Evidence and approach |
 | --- | --- |
+| [Booking.com](../../companies/booking-com/README.md) | Self-service experiment infrastructure, shared metrics and methods, training, and decentralized decisions. |
 | [ByteDance](../../companies/bytedance/README.md) | LTV models, automated acquisition, creative systems, attribution, risk control, shared SDKs, and portfolio coordination. |
 | [Facebook / Meta](../../companies/facebook/README.md) | Instrumentation, experimentation, translation, onboarding, and expansion systems. |
 | [Ramp](../../companies/ramp/README.md) | Growth engineering, data-GTM connections, and shared AI-agent context. |
 
 ## Comparison and Transfer
 
-ByteDance builds portfolio-scale acquisition, creative, LTV, attribution, and risk systems; Facebook combines shared data, experimentation, translation, and expansion capabilities; Ramp connects a smaller B2B stack through engineering, GTM data, and AI context. Their centralization reflects different scale and repetition.
+Booking.com combines self-service experimentation with shared methods and training; ByteDance builds portfolio-scale acquisition, creative, LTV, attribution, and risk systems; Facebook combines shared data, experimentation, translation, and expansion capabilities; Ramp connects a smaller B2B stack through engineering, GTM data, and AI context. Their centralization reflects different scale and repetition.
 
 Centralize only stable repeated work. Compare internal consumers, service contracts, regulation, override needs, failure cost, and downstream customer value.
 

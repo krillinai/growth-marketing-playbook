@@ -39,6 +39,11 @@
 
 - 自动化不稳定流程；中心化所有决策；只看内部使用不看客户结果；为不存在的规模或监管提前建设。
 
+## 相关证据
+
+- [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.zh.md)：约束驱动的实验基础设施、自助式护栏、并行测试与本地决策所有权。
+- [Booking.com](../../case-library/companies/booking-com/README.zh.md)：共享实验基础设施、方法、指标、培训与去中心化产品决策。
+
 ## 案例对比
 
 参见[增长基础设施](../../case-library/themes/growth-infrastructure/README.zh.md)。

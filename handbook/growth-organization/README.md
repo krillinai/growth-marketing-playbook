@@ -62,6 +62,8 @@ Maintain a mix of low-effort learning and larger structural bets. Measure whethe
 
 ## Related Evidence
 
+- [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.md): empowered product teams, central experimentation boundaries, ambassadors, documentation, and leadership.
+- [Booking.com](../../case-library/companies/booking-com/README.md): platform-plus-local experimentation ownership and distributed decision capability.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): growth-team mission, ownership spectrum, hiring signals, reach, impact, and organizational fit.
 - [Uber](../../case-library/companies/uber/README.md): evolving ownership and geographically scoped experimentation.
 - [Casey Winters](../../case-library/people/casey-winters/README.md): growth-team evolution, data-driven decisions, product leadership, and communicating tradeoffs.

@@ -10,6 +10,7 @@ For organization models, decision rights, and diagnosis, see [Growth Organizatio
 
 | Company | Evidence and approach |
 | --- | --- |
+| [Booking.com](../../companies/booking-com/README.md) | Self-service experimentation, platform-plus-local ownership, shared guardrails, training, and distributed decisions. |
 | [Ramp](../../companies/ramp/README.md) | Focused autonomy, growth engineering, experiment portfolios, writing, and complementary talent. |
 | [ByteDance](../../companies/bytedance/README.md) | UG as a shared platform with local execution, automation, and risk separation. |
 | [Facebook / Meta](../../companies/facebook/README.md) | Cross-functional growth teams, instrumentation, product access, and shared retention goals. |
@@ -29,6 +30,7 @@ Before transfer, identify the current constraint, accountable outcome, required 
 ## Related People
 
 - [Andrew Chen](../../people/andrew-chen/README.md): ownership models, growth-team boundaries, hiring signals, reach, impact, and organizational fit.
+- [Lukas Vermeer](../../people/lukas-vermeer/README.md): empowered teams, experimentation-function boundaries, ambassadors, documentation, and leadership.
 - [Brian Balfour](../../people/brian-balfour/README.md): multi-dimensional growth expertise, constraint ownership, and the growth machine.
 - [Casey Winters](../../people/casey-winters/README.md): team evolution, product leadership, decision rights, and communicating growth tradeoffs.
 - [Morgan Brown](../../people/morgan-brown/README.md): product-marketing integration, constraint ownership, and customer-led AI product work.

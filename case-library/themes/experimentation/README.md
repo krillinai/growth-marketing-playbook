@@ -10,6 +10,7 @@ For design, uncertainty, and decision rules, see [Experimentation](../../../hand
 
 | Company | Evidence and approach |
 | --- | --- |
+| [Booking.com](../../companies/booking-com/README.md) | Decentralized experimentation, self-service infrastructure, shared methods, concurrent tests, and interaction management. |
 | [Ramp](../../companies/ramp/README.md) | Bet portfolios, conclusive failure, postmortems, and decision quality. |
 | [Duolingo](../../companies/duolingo/README.md) | Explore-exploit balance and repeated testing of retention mechanics. |
 | [Airtable](../../companies/airtable/README.md) | Onboarding experiments connected to activation and downstream guardrails. |
@@ -20,13 +21,14 @@ For design, uncertainty, and decision rules, see [Experimentation](../../../hand
 
 ## Comparison and Transfer
 
-Ramp treats experiments as a bet portfolio and values conclusive failure; Duolingo repeatedly tunes retention mechanics; Airtable links onboarding tests to downstream quality; Facebook depends on instrumentation and cross-functional execution; Lovable warns that test velocity can hide larger constraints; Dropbox distinguishes AI-product progress from shipping activity; Pinterest combines entry-page experiments with qualitative understanding and downstream retention.
+Booking.com combines decentralized product decisions with shared infrastructure, methods, and training; Ramp treats experiments as a bet portfolio and values conclusive failure; Duolingo repeatedly tunes retention mechanics; Airtable links onboarding tests to downstream quality; Facebook depends on instrumentation and cross-functional execution; Lovable warns that test velocity can hide larger constraints; Dropbox distinguishes AI-product progress from shipping activity; Pinterest combines entry-page experiments with qualitative understanding and downstream retention.
 
 Transfer decision discipline, not experiment volume. Check power, instrumentation, product risk, implementation ownership, and whether the tested surface can materially change the outcome.
 
 ## Related People
 
 - [Ronny Kohavi](../../people/ronny-kohavi/README.md): OEC, power, SRM, trustworthy experiment platforms, long-term effects, and experimentation culture.
+- [Lukas Vermeer](../../people/lukas-vermeer/README.md): democratization, self-service platforms, concurrent tests, interaction effects, empowered teams, and experimentation leadership.
 - [Brian Balfour](../../people/brian-balfour/README.md): hypothesis-driven viral experiments, growth machines, and learning systems.
 - [Morgan Brown](../../people/morgan-brown/README.md): constraint-led hypotheses, scientific learning, and AI-product evaluation.
 - [Casey Winters](../../people/casey-winters/README.md): conversion experiments, qualitative research, downstream validation, and growth-model diagnosis.

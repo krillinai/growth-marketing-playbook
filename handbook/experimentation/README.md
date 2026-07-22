@@ -211,6 +211,7 @@ Experiment count is an activity metric. Better program measures include decision
 ## Related Evidence
 
 - [Ronny Kohavi](../../case-library/people/ronny-kohavi/README.md): OEC, power, SRM, trustworthy platforms, long-term effects, and experiment culture.
+- [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.md): decentralized experimentation, self-service platforms, concurrent tests, interaction effects, empowered teams, and leadership.
 - [Sean Ellis](../../case-library/people/sean-ellis/README.md): scientific growth loops, high-tempo testing, and prioritization.
 - [Alex Schultz](../../case-library/people/alex-schultz/README.md): retention-first growth, instrumentation, and company-level metrics.
 - [Airtable](../../case-library/companies/airtable/README.md): onboarding experiments, downstream collaboration, and guardrails.

@@ -39,6 +39,11 @@ Centralize when multiple teams repeat the same problem, inputs and outputs are s
 
 - Automating an unstable process; centralizing every decision; measuring internal usage without customer outcomes; building for scale or regulation that does not exist.
 
+## Related Evidence
+
+- [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.md): constraint-led experiment infrastructure, self-service guardrails, concurrent tests, and local decision ownership.
+- [Booking.com](../../case-library/companies/booking-com/README.md): shared experiment infrastructure, methods, metrics, training, and decentralized product decisions.
+
 ## Case Comparison
 
 See [Growth Infrastructure](../../case-library/themes/growth-infrastructure/README.md).

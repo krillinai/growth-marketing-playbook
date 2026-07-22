@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | [Airtable](airtable/README.zh.md) | 客户驱动营销、模板、新用户引导、激活与协作采用 | 引导改版、激活指标与协作信号 |
 | [Airbnb](airbnb/README.zh.md) | Marketplace 分发、Craigslist 集成、技术型增长与平台依赖 | 产品化跨平台发布、漏斗衡量与渠道边界 |
+| [Booking.com](booking-com/README.zh.md) | 去中心化实验、自助式基础设施、统一方法、并行测试与组织学习 | 实验民主化、并行曝光、交互管理与平台边界 |
 | [字节跳动](bytedance/README.zh.md) | 增长中台、LTV、投放自动化、素材系统、风控、国际化与激励 | 基础设施、国际化、红包、裂变与极速版 |
 | [Duolingo](duolingo/README.zh.md) | 自然增长、国际化、订阅、实验、留存与游戏化 | 订阅系统、留存、召回、游戏化与 Streak |
 | [Dropbox](dropbox/README.zh.md) | 推荐增长、PLG、扩展、AI 搜索、评估与产品领导 | 早期推荐循环、产品驱动获客与 Dropbox Dash |

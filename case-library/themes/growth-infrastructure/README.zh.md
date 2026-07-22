@@ -10,13 +10,14 @@
 
 | 公司 | 证据与方法 |
 | --- | --- |
+| [Booking.com](../../companies/booking-com/README.zh.md) | 自助式实验基础设施、统一指标与方法、培训和去中心化决策。 |
 | [字节跳动](../../companies/bytedance/README.zh.md) | LTV 模型、自动投放、素材系统、归因、风控、共享 SDK 与产品矩阵协调。 |
 | [Facebook / Meta](../../companies/facebook/README.zh.md) | 埋点、实验、翻译、引导与扩张系统。 |
 | [Ramp](../../companies/ramp/README.zh.md) | 增长工程、数据与 GTM 连接，以及共享 AI Agent 语境。 |
 
 ## 对比与迁移
 
-字节跳动建设产品矩阵规模的获客、素材、LTV、归因与风控系统；Facebook 组合共享数据、实验、翻译和扩张能力；Ramp 通过工程、GTM 数据和 AI 上下文连接规模更小的 B2B 增长栈。中心化程度来自不同规模与重复性。
+Booking.com 把自助式实验与统一方法和培训结合；字节跳动建设产品矩阵规模的获客、素材、LTV、归因与风控系统；Facebook 组合共享数据、实验、翻译和扩张能力；Ramp 通过工程、GTM 数据和 AI 上下文连接规模更小的 B2B 增长栈。中心化程度来自不同规模与重复性。
 
 只有稳定的重复工作适合中心化。迁移前需要比较内部使用者、服务契约、监管、人工覆盖、失败成本与下游客户价值。
 

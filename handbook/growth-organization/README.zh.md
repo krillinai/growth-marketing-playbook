@@ -62,6 +62,8 @@
 
 ## 相关证据
 
+- [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.zh.md)：赋权产品团队、中央实验职能边界、Ambassador、文档与领导力。
+- [Booking.com](../../case-library/companies/booking-com/README.zh.md)：平台加本地的实验所有权与分布式决策能力。
 - [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：增长团队使命、所有权光谱、招聘信号、Reach、Impact 与组织适配。
 - [Uber](../../case-library/companies/uber/README.zh.md)：所有权演进与按地域限制范围的实验。
 - [Casey Winters](../../case-library/people/casey-winters/README.zh.md)：增长团队演进、数据驱动决策、产品领导力与取舍沟通。

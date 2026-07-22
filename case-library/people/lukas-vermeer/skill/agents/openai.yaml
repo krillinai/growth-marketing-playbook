@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lukas Vermeer Scalable Experimentation Lens"
+  short_description: "Diagnose scalable, decentralized experimentation systems"
+  default_prompt: "Apply Lukas Vermeer's publicly documented experimentation frameworks to diagnose this program, including ownership, platform scope, guardrails, concurrency, interactions, and leadership boundaries."

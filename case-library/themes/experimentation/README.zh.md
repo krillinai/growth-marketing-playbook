@@ -10,6 +10,7 @@
 
 | 公司 | 证据与方法 |
 | --- | --- |
+| [Booking.com](../../companies/booking-com/README.zh.md) | 去中心化实验、自助式基础设施、统一方法、并行测试与交互管理。 |
 | [Ramp](../../companies/ramp/README.zh.md) | 押注组合、结论性失败、复盘与决策质量。 |
 | [Duolingo](../../companies/duolingo/README.zh.md) | Explore-Exploit 平衡与留存机制的重复测试。 |
 | [Airtable](../../companies/airtable/README.zh.md) | 连接激活与下游护栏的新用户引导实验。 |
@@ -20,13 +21,14 @@
 
 ## 对比与迁移
 
-Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调整留存机制；Airtable 把引导实验连接到下游质量；Facebook 依赖埋点和跨职能执行；Lovable 警惕实验速度掩盖更大的产品约束；Dropbox 区分 AI 产品进展与发布活动；Pinterest 把入口页实验与定性理解和下游留存结合。
+Booking.com 把去中心化产品决策与共享基础设施、方法和培训结合；Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调整留存机制；Airtable 把引导实验连接到下游质量；Facebook 依赖埋点和跨职能执行；Lovable 警惕实验速度掩盖更大的产品约束；Dropbox 区分 AI 产品进展与发布活动；Pinterest 把入口页实验与定性理解和下游留存结合。
 
 应该迁移决策纪律，而不是实验数量。需要检查统计功效、埋点、产品风险、实施责任，以及测试界面是否足以实质改变结果。
 
 ## 相关人物
 
 - [Ronny Kohavi](../../people/ronny-kohavi/README.zh.md)：OEC、Power、SRM、可信实验平台、长期效应与实验文化。
+- [Lukas Vermeer](../../people/lukas-vermeer/README.zh.md)：实验民主化、自助式平台、并行测试、交互效应、赋权团队与实验领导力。
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：假设驱动的病毒实验、Growth Machine 与学习系统。
 - [Morgan Brown](../../people/morgan-brown/README.zh.md)：约束驱动的假设、科学学习与 AI 产品评估。
 - [Casey Winters](../../people/casey-winters/README.zh.md)：转化实验、定性研究、下游验证与增长模型诊断。
