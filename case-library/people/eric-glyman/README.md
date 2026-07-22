@@ -59,4 +59,6 @@ AI can categorize, review, route, and automate finance workflows. Value should b
 
 ## Related Content
 
+- [Incentive Systems](../../../handbook/incentive-growth/README.md)
+
 - [Ramp company page](../../companies/ramp/README.md)

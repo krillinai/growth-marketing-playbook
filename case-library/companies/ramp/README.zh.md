@@ -48,6 +48,7 @@ Ramp 是面向企业的财务运营平台。当前内容研究其负责人如何
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
 - [实验系统](../../themes/experimentation/README.zh.md)
 - [增长基础设施](../../themes/growth-infrastructure/README.zh.md)
+- [激励系统](../../themes/incentive-growth/README.zh.md)
 - [增长组织](../../themes/growth-organization/README.zh.md)
 
 ## 公司案例：Ramp：增长与衡量

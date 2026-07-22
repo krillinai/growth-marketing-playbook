@@ -110,4 +110,6 @@ International growth requires local market priorities, channels, creative contex
 
 ## Related Content
 
+- [Incentive Systems](../../../handbook/incentive-growth/README.md)
+
 - [ByteDance company page](../../companies/bytedance/README.md)

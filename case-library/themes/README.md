@@ -21,7 +21,7 @@ Cross-company cases organized by growth stage and horizontal capability. Company
 | [Metrics & Measurement](metrics-and-measurement/README.md) | How should value, behavior, and economics be measured? |
 | [Experimentation](experimentation/README.md) | How do teams turn uncertainty into decisions? |
 | [Growth Infrastructure](growth-infrastructure/README.md) | Which growth capabilities should become reusable systems? |
-| [Incentive Growth](incentive-growth/README.md) | When do rewards change behavior without destroying quality? |
+| [Incentive Systems](incentive-growth/README.md) | When do rewards change behavior without destroying quality? |
 | [Growth Organization](growth-organization/README.md) | How should people, ownership, and decision rights support growth? |
 
 ## Ongoing Update Rule

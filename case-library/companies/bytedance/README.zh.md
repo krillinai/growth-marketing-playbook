@@ -62,7 +62,7 @@
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
 - [实验系统](../../themes/experimentation/README.zh.md)
 - [增长基础设施](../../themes/growth-infrastructure/README.zh.md)
-- [激励增长](../../themes/incentive-growth/README.zh.md)
+- [激励系统](../../themes/incentive-growth/README.zh.md)
 - [增长组织](../../themes/growth-organization/README.zh.md)
 
 ## 公司案例：字节跳动：增长基础设施
@@ -186,7 +186,7 @@
 - [2:57:09：共享生命周期 SDK](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=10629s)
 - [3:23:04：AI 产品增长](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=12184s)
 
-## 公司案例：字节跳动：激励增长
+## 公司案例：字节跳动：激励系统
 
 ### 案例速览
 

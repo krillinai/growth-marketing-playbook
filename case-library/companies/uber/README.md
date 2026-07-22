@@ -95,7 +95,7 @@ This supports a general organization principle: ownership should match the const
 
 - [Acquisition](../../themes/acquisition/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
-- [Incentive Growth](../../themes/incentive-growth/README.md)
+- [Incentive Systems](../../themes/incentive-growth/README.md)
 - [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
 - [Andrew Chen](../../people/andrew-chen/README.md)
 

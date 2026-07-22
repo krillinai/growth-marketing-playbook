@@ -59,7 +59,7 @@ Accessible learning value
 - [Monetization](../../themes/monetization/README.md)
 - [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
-- [Incentive Growth](../../themes/incentive-growth/README.md)
+- [Incentive Systems](../../themes/incentive-growth/README.md)
 
 ## Company Case: Duolingo: Consumer Subscription Growth
 

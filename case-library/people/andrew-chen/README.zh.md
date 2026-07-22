@@ -178,6 +178,7 @@ Chen 的增长团队方法区分核心产品与增长工作：核心产品深化
 - [商业化](../../../handbook/monetization/README.zh.md)
 - [推荐与增长循环](../../../handbook/referral-and-loops/README.zh.md)
 - [增长基础设施](../../../handbook/growth-infrastructure/README.zh.md)
+- [激励系统](../../../handbook/incentive-growth/README.zh.md)
 - [推荐与增长循环](../../themes/referral-and-loops/README.zh.md)
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
 - [增长组织](../../themes/growth-organization/README.zh.md)

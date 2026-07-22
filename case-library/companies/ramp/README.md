@@ -48,6 +48,7 @@ The sources are participant interviews from 2023-2026. They offer several functi
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
 - [Growth Infrastructure](../../themes/growth-infrastructure/README.md)
+- [Incentive Systems](../../themes/incentive-growth/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)
 
 ## Company Case: Ramp: Growth and Measurement

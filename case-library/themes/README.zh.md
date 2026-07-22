@@ -21,7 +21,7 @@
 | [指标与衡量](metrics-and-measurement/README.zh.md) | 如何衡量价值、行为和经济性？ |
 | [实验系统](experimentation/README.zh.md) | 团队如何把不确定性转化成决策？ |
 | [增长基础设施](growth-infrastructure/README.zh.md) | 哪些增长能力应该成为可复用系统？ |
-| [激励增长](incentive-growth/README.zh.md) | 奖励何时能改变行为而不破坏质量？ |
+| [激励系统](incentive-growth/README.zh.md) | 奖励何时能改变行为而不破坏质量？ |
 | [增长组织](growth-organization/README.zh.md) | 人员、责任与决策权应如何支持增长？ |
 
 ## 持续更新规则

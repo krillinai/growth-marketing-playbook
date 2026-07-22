@@ -26,7 +26,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Metrics & Measurement](themes/metrics-and-measurement/README.md)
 - [Experimentation](themes/experimentation/README.md)
 - [Growth Infrastructure](themes/growth-infrastructure/README.md)
-- [Incentive Growth](themes/incentive-growth/README.md)
+- [Incentive Systems](themes/incentive-growth/README.md)
 - [Growth Organization](themes/growth-organization/README.md)
 
 ## [Companies](companies/README.md)

@@ -26,7 +26,7 @@
 - [指标与衡量](themes/metrics-and-measurement/README.zh.md)
 - [实验系统](themes/experimentation/README.zh.md)
 - [增长基础设施](themes/growth-infrastructure/README.zh.md)
-- [激励增长](themes/incentive-growth/README.zh.md)
+- [激励系统](themes/incentive-growth/README.zh.md)
 - [增长组织](themes/growth-organization/README.zh.md)
 
 ## [公司](companies/README.zh.md)

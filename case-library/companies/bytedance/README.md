@@ -62,7 +62,7 @@ Product value and retention
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
 - [Growth Infrastructure](../../themes/growth-infrastructure/README.md)
-- [Incentive Growth](../../themes/incentive-growth/README.md)
+- [Incentive Systems](../../themes/incentive-growth/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)
 
 ## Company Case: ByteDance: Growth Infrastructure
@@ -186,7 +186,7 @@ The transferable part is the learning system: measure retained value, model cost
 - [2:57:09: shared lifecycle SDKs](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=10629s)
 - [3:23:04: growth in AI products](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=12184s)
 
-## Company Case: ByteDance: Incentive Growth
+## Company Case: ByteDance: Incentive Systems
 
 ### Case at a Glance
 
