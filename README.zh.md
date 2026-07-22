@@ -9,7 +9,7 @@
 [![Growth & Marketing Skills](https://img.shields.io/badge/Growth_%26_Marketing-Skills-1f883d?style=flat-square)](https://github.com/krillinai/growth-skills)
 [![clawee.ai](https://img.shields.io/badge/clawee.ai-Enterprise_Growth_Agent-6f42c1?style=flat-square)](https://clawee.ai)
 
-> 由 [KrillinAI](https://github.com/KrillinAI) 创作并维护。[Growth & Marketing Skills](https://github.com/krillinai/growth-skills) 是 Growth Playbook 的开源配套执行层，将其中的框架与方法转化为可复用、可由 AI 执行的增长能力。
+> 由专注于内容智能与全球增长的 AI 团队 [KrillinAI](https://github.com/KrillinAI) 创作并维护。[Growth & Marketing Skills](https://github.com/krillinai/growth-skills) 是 Growth Playbook 的开源配套执行层，将其中的框架与方法转化为可复用、可由 AI 执行的增长能力。
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
