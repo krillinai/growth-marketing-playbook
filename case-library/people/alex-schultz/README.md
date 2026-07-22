@@ -22,7 +22,6 @@ Use this lens when retention, activation, growth accounting, data quality, acqui
 | Field | Details |
 | --- | --- |
 | Name | Alex Schultz |
-| Pronouns | he/him |
 | Meta tenure | 2007-present |
 | Major roles | VP of Analytics (2015-2026); Chief Marketing Officer (2020-2026); Chief Data Officer (2026-present) |
 | Current scope | Analytics, data science, data engineering, competitive intelligence, and user research |

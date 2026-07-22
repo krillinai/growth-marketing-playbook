@@ -22,7 +22,6 @@
 | 项目 | 信息 |
 | --- | --- |
 | 姓名 | Alex Schultz |
-| 代词 | he/him |
 | Meta 任职时间 | 2007 至今 |
 | 主要职位 | VP of Analytics（2015–2026）；Chief Marketing Officer（2020–2026）；Chief Data Officer（2026 至今） |
 | 当前职责 | 分析、数据科学、数据工程、竞争情报与用户研究 |
