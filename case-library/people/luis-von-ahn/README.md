@@ -167,6 +167,9 @@ Accessible education mission
 - The sources do not provide complete learning-efficacy studies, experiment tables, cohort data, advertising economics, or AI quality evaluations.
 - Duolingo's category, scale, brand permission, and product frequency limit direct imitation.
 
+## Executable Skill
+
+- [Luis von Ahn Habit Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/luis-von-ahn-habit-growth-lens) — design mission-aligned freemium, ethical habits, progress systems, product-led brand, category expansion, and AI learning safeguards using Luis von Ahn's public methods.
 ## Related Content
 
 - [Duolingo company page](../../companies/duolingo/README.md)
