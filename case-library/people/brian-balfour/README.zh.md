@@ -170,6 +170,10 @@ North Star 通常是输出指标：它描述重要结果，却过于宽泛，无
 - [增长组织](../../../handbook/growth-organization/README.zh.md)
 - [GEO](../../../handbook/geo/README.zh.md)
 
+## 可执行 Skill
+
+- [Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens) — 运用 Brian Balfour 的公开框架诊断增长约束、评估匹配关系、选择渠道并设计聚焦实验。
+
 ## 文章索引
 
 | 日期 | 文章 | 主要主题 |

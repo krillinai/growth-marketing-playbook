@@ -172,6 +172,10 @@ The mechanism reduces three constraints common to UGC loops: the effort required
 - [Growth Organization](../../../handbook/growth-organization/README.md)
 - [GEO](../../../handbook/geo/README.md)
 
+## Executable Skill
+
+- [Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens) — apply Brian Balfour's public frameworks to diagnose growth constraints, evaluate fit, select channels, and design focused experiments.
+
 ## Article Index
 
 | Date | Article | Main topic |
