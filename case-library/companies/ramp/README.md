@@ -43,6 +43,7 @@ The sources are participant interviews from 2023-2026. They offer several functi
 
 ## Related Themes
 
+- [Positioning](../../themes/positioning/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Monetization](../../themes/monetization/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)

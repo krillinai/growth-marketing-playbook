@@ -182,6 +182,8 @@ Accessible education mission
 
 ## Related Content
 
+- [Positioning](../../../handbook/positioning/README.md)
+- [Positioning Cases](../../themes/positioning/README.md)
 - [Activation](../../../handbook/activation/README.md)
 
 - [Monetization](../../../handbook/monetization/README.md)

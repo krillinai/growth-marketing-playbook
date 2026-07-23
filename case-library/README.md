@@ -17,6 +17,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 
 - [Product-Market Fit](themes/product-market-fit/README.md)
 - [Customer Segmentation & ICP](themes/customer-segmentation/README.md)
+- [Positioning](themes/positioning/README.md)
 
 ## [Growth Stages](themes/README.md#growth-stages)
 

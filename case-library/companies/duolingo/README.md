@@ -54,6 +54,7 @@ Accessible learning value
 
 ## Related Themes
 
+- [Positioning](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Activation](../../themes/activation/README.md)
 

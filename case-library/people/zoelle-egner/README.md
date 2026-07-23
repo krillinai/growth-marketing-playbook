@@ -81,4 +81,6 @@ Find highly engaged users
 
 ## Related Content
 
+- [Positioning](../../../handbook/positioning/README.md)
+- [Positioning Cases](../../themes/positioning/README.md)
 - [Airtable company page](../../companies/airtable/README.md)

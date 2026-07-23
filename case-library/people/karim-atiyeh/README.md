@@ -67,4 +67,6 @@ AI and better tooling let technical people prototype in product, marketing, and 
 
 ## Related Content
 
+- [Positioning](../../../handbook/positioning/README.md)
+- [Positioning Cases](../../themes/positioning/README.md)
 - [Ramp company page](../../companies/ramp/README.md)

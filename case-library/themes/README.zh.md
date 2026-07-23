@@ -10,6 +10,7 @@
 | --- | --- |
 | [产品市场匹配](product-market-fit/README.zh.md) | 哪些证据表明明确市场能够反复获得可行产品价值？ |
 | [客户分群与 ICP](customer-segmentation/README.zh.md) | 哪些客户差异应该改变产品与增长决策？ |
+| [定位](positioning/README.zh.md) | 哪种竞争语境能让最佳客户理解差异化价值？ |
 
 ## 增长环节
 

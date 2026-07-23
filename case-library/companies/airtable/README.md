@@ -50,6 +50,7 @@ Super-user insight
 
 ## Related Themes
 
+- [Positioning](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Activation](../../themes/activation/README.md)

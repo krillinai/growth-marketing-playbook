@@ -126,6 +126,7 @@ When products can copy features quickly and many vendors claim similar AI capabi
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
 - [Positioning](../../../handbook/positioning/README.md)
+- [Positioning Cases](../../themes/positioning/README.md)
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Monetization](../../../handbook/monetization/README.md)

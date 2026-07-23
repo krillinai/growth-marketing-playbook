@@ -96,6 +96,8 @@ With limited engineering support, her early growth work revisited notifications 
 
 ## Related Content
 
+- [Positioning](../../../handbook/positioning/README.md)
+- [Positioning Cases](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 
 - [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)

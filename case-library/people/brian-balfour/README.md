@@ -179,6 +179,8 @@ The mechanism reduces three constraints common to UGC loops: the effort required
 - [Monetization](../../../handbook/monetization/README.md)
 
 - [Growth Model](../../../handbook/growth-model/README.md)
+- [Positioning](../../../handbook/positioning/README.md)
+- [Positioning Cases](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)

@@ -17,6 +17,7 @@
 
 - [产品市场匹配](themes/product-market-fit/README.zh.md)
 - [客户分群与 ICP](themes/customer-segmentation/README.zh.md)
+- [定位](themes/positioning/README.zh.md)
 
 ## [增长环节](themes/README.zh.md#增长环节)
 
