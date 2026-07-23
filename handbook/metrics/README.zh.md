@@ -407,6 +407,8 @@ NPS = 推荐者占比（9-10）- 贬损者占比（0-6）
 
 NPS（净推荐值）是用户自述推荐意愿的调查信号，不是已观察到的推荐、留存或收入。需要收集评分原因，使用有代表性的样本，控制参与度与用户年限偏差，并把反复出现的主题连接到产品决策。
 
+使用 [Survey Design & Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/survey-design-and-analysis) 可以在明确目标人群、回复质量、分母与不确定性边界的前提下，设计、审查或分析 NPS 及其他调查工具。
+
 ## CAC 与 CPA
 
 - **CAC** 衡量获得一个明确定义的付费客户所需成本。

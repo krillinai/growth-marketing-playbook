@@ -82,6 +82,8 @@ Use a qualified sample:
 
 Report sample size, eligibility, response rate, confidence interval, field dates, and segment distribution. Compare the answers with observed activation, retention, expansion, and churn rather than converting the score into a pass/fail gate.
 
+Use the [Survey Design & Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/survey-design-and-analysis) to specify or audit the qualified population, instrument, fielding, response states, uncertainty, and interpretation boundary; use the [Product-Market Fit Assessment Skill](https://github.com/krillinai/growth-skills/tree/main/skills/product-market-fit-assessment) for the broader fit decision.
+
 ## Retention Evidence
 
 Retention is the strongest widely applicable behavioral evidence that value repeats, but it must use the right behavior, cohort, and interval.

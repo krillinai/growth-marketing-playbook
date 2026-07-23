@@ -407,6 +407,8 @@ NPS = % Promoters (9-10) - % Detractors (0-6)
 
 NPS is a survey signal about stated willingness to recommend, not observed referral, retention, or revenue. Collect the reason for the score, use representative samples, control for engagement and tenure bias, and connect recurring themes to product decisions.
 
+Use the [Survey Design & Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/survey-design-and-analysis) to design, audit, or analyze NPS and other survey instruments with explicit population, response-quality, denominator, and uncertainty boundaries.
+
 ## CAC and CPA
 
 - **CAC** measures cost to acquire a defined paying customer.
