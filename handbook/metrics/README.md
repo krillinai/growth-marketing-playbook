@@ -125,6 +125,54 @@ The same metric name can describe different systems depending on the entity and 
 
 Report both rates and absolute contribution. Preserve original eligibility and cohort membership through downstream readout.
 
+## Cohort Analysis
+
+A cohort is a group of entities that shares a defined start time, exposure, behavior, or product state and is observed at the same elapsed age. A July signup cohort is not the same as all users active in July: the first follows a fixed group from a common start, while the second mixes customers of different ages.
+
+| Structure | Groups entities by | Best used for |
+| --- | --- | --- |
+| Cohort | Shared start, exposure, behavior, or state | Comparing outcomes at equal maturity |
+| Segment | Relatively durable customer or account attributes | Choosing different products, messages, service, or routes to market |
+| Funnel | Ordered value states or transitions | Locating conversion loss and constraints |
+
+A cohort may be split by a decision-relevant segment, and a funnel may be compared across cohorts. They answer different questions and should not be used as interchangeable labels.
+
+### Build a Cohort Analysis
+
+1. State the decision and outcome the analysis must support.
+2. Freeze the entity, eligibility, start event, qualifying event, identity rule, interval, timezone, and observation cutoff.
+3. Assign each entity to one original cohort and calculate outcome age from the common start.
+4. Mark which cells have fully matured; preserve incomplete or right-censored cells instead of treating them as failures.
+5. Compare the same cohort age across start periods, then split only by dimensions that can change a decision.
+6. Report the numerator, denominator, rate, and absolute contribution together.
+7. Separate aggregate movement into cohort-mix change and within-cohort change before proposing a mechanism.
+
+Illustrative weekly retention table:
+
+| Signup cohort | Eligible users | Week 1 | Week 2 | Week 4 |
+| --- | ---: | ---: | ---: | ---: |
+| June 1 | 100 | 52% | 39% | 31% |
+| June 8 | 120 | 57% | 42% | 34% |
+| June 29 | 140 | 59% | Not mature | Not mature |
+
+Each column represents the same elapsed age, not the same calendar week. The June 29 cohort can inform Week 1 only; comparing its incomplete later periods with mature earlier cohorts would create false deterioration.
+
+```text
+cohort outcome at age t
+= eligible original-cohort entities meeting the outcome definition at age t
+/ eligible original-cohort entities mature through age t
+```
+
+### Interpretation Rules
+
+- Compare compatible entities, start events, outcome definitions, ages, markets, and product versions.
+- Keep the canonical total beside segment cuts so mix shifts and absolute contribution remain visible.
+- Treat a trend or association as a diagnostic signal, not as proof that a product change, channel, or behavior caused the result.
+- Preserve small denominators, missing events, identity changes, late data, seasonality, experiment exposure, and survivorship as limitations.
+- Do not search hundreds of slices until one appears favorable; predeclare decision-relevant cuts where possible.
+
+Use [Retention](../retention/README.md) for recurring-value curves, churn, resurrection, and growth accounting. Use the [Cohort Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/cohort-analysis) to turn supplied event or aggregate data into a bounded cohort analysis.
+
 ## Observed and Predicted Metrics
 
 Observed metrics summarize recorded outcomes. Predicted metrics estimate future or unobserved states such as LTV, churn risk, propensity, attribution credit, demand, or fraud.

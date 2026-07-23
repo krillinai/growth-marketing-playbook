@@ -91,7 +91,7 @@ We follow a content-first approach: a module is published only when it contains 
 
 | System | What it supports |
 | --- | --- |
-| [Metrics & Measurement](handbook/metrics/README.md) | Metric contracts, causal trees, product topology, prediction calibration, diagnosis, and maturity |
+| [Metrics & Measurement](handbook/metrics/README.md) | Metric contracts, cohort analysis, causal trees, product topology, prediction calibration, diagnosis, and maturity |
 | [Experimentation](handbook/experimentation/README.md) | Decisions, OECs, power, experiment quality, long-term effects, portfolios, and reusable causal learning |
 | [Growth Infrastructure](handbook/growth-infrastructure/README.md) | Reusable data, decision, delivery, creative, automation, and governance capabilities |
 | [Incentive Systems](handbook/incentive-growth/README.md) | Incrementality, reward economics, post-incentive retention, fraud, and cannibalization |

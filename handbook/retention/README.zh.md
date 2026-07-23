@@ -49,6 +49,15 @@
 
 不能在相同日历日期比较成熟度不同的 Cohort。使用 Cohort Age，并保留尚未完整成熟的右删失周期。
 
+有效留存表以 Cohort 起始时间为行，以相同 Cohort Age 为列。除非已经声明的留存定义需要使用经过验证的机会分母，否则应保持原始合格 Cohort 作为分母。
+
+| 起始 Cohort | 合格实体 | Age 1 | Age 2 | Age 4 |
+| --- | ---: | ---: | ---: | ---: |
+| 较早 Cohort | 100 | 52% | 39% | 31% |
+| 较晚 Cohort | 120 | 57% | 42% | 尚未成熟 |
+
+最后一个单元格代表不可用，不是零。通用构建方法、Mix 拆解与比较规则参见[Cohort 分析](../metrics/README.zh.md#cohort-分析)；可复用执行流程参见 [Cohort Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/cohort-analysis)。
+
 ### 分群
 
 按照以下维度拆分：

@@ -49,6 +49,15 @@ Registration cohorts answer acquisition-quality questions. Activation cohorts an
 
 Never compare immature cohorts with mature cohorts at the same elapsed calendar date. Use cohort age and preserve incomplete right-censored periods.
 
+A valid retention table places the cohort start on rows and equal cohort ages on columns. Keep the original eligible cohort as the denominator unless the declared retention definition requires a verified opportunity denominator.
+
+| Start cohort | Eligible entities | Age 1 | Age 2 | Age 4 |
+| --- | ---: | ---: | ---: | ---: |
+| Earlier cohort | 100 | 52% | 39% | 31% |
+| Later cohort | 120 | 57% | 42% | Not mature |
+
+The final cell is unavailable, not zero. General construction, mix decomposition, and comparison rules are covered in [Cohort Analysis](../metrics/README.md#cohort-analysis); the reusable execution workflow is available as the [Cohort Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/cohort-analysis).
+
 ### Segmentation
 
 Segment by:
