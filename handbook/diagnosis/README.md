@@ -182,7 +182,7 @@ Use the Playbook directly when the team can access the necessary data, make the 
 
 ### Growth & Marketing Skills
 
-Use [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) when the diagnosis maps to a reusable, auditable workflow. The current catalog includes an [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) for evidence-backed technical, content, and search diagnosis.
+Use [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) when the diagnosis maps to a reusable, auditable workflow. The current catalog includes an [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) for evidence-backed technical, content, and search diagnosis.
 
 ### clawee.ai Enterprise
 

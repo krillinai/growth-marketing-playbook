@@ -112,7 +112,7 @@ We follow a content-first approach: a module is published only when it contains 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **Growth Diagnosis** | Turn symptoms into evidence-backed constraints, 30-day actions, and execution routes | [Diagnosis Protocol](handbook/diagnosis/README.md)<br>[Questions](handbook/diagnosis/questions.md)<br>[Output Template](handbook/diagnosis/output-template.md)<br>[Examples](handbook/diagnosis/examples/README.md) |
-| **Growth & Marketing Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) |
+| **Growth & Marketing Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) |
 
 See the [Roadmap](ROADMAP.md) for how this structure will grow as complete material is added.
 

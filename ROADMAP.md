@@ -69,4 +69,4 @@ Brand, content, email, social, community, partnerships, sales, and other marketi
 
 ## Companion Repository
 
-- [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) provides bounded AI-executable workflows that can support Playbook methods.
+- [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) provides bounded AI-executable workflows that can support Playbook methods.

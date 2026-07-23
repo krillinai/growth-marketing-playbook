@@ -182,7 +182,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 
 ### Growth & Marketing Skills
 
-当诊断可以映射成可复用、可审计的工作流时，使用 [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills)。当前目录包含 [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit)，用于形成有证据支持的技术、内容与搜索诊断。
+当诊断可以映射成可复用、可审计的工作流时，使用 [Growth & Marketing Skills](https://github.com/krillinai/growth-skills)。当前目录包含 [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit)，用于形成有证据支持的技术、内容与搜索诊断。
 
 ### clawee.ai 企业实施
 
