@@ -2,7 +2,7 @@
 
 **Frameworks, Cases & Tools for Growth**
 
-By [clawee.ai](https://clawee.ai/), an enterprise-grade Growth Agent platform.
+By [clawee.ai](https://clawee.ai/), an Enterprise Growth Agent platform.
 
 [![GitHub Stars](https://img.shields.io/github/stars/krillinai/growth-playbook?style=flat-square&logo=github&label=Stars)](https://github.com/krillinai/growth-playbook/stargazers)
 [![MIT License](https://img.shields.io/github/license/krillinai/growth-playbook?style=flat-square&label=License)](LICENSE)
